@@ -1,0 +1,1 @@
+# MouseHunt Wiki Scraper Package

@@ -1,0 +1,14 @@
+# Ignore raw scraped data (thousands of individual files)
+data/
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+scraper/__pycache__/
+
+# Virtual environment & IDE
+.venv/
+venv/
+.idea/
+.vscode/

@@ -1,0 +1,91 @@
+{
+  "power_types": {
+    "Physical": {
+      "canonical": "Physical",
+      "aliases": ["fisik", "physical", "weapon physical", "tipe fisik"],
+      "description": "Tipe kekuatan standar yang paling umum di Gnawnia dan area awal hingga menengah."
+    },
+    "Tactical": {
+      "canonical": "Tactical",
+      "aliases": ["taktis", "tactical", "taktikal", "tipe taktis"],
+      "description": "Tipe kekuatan taktis yang sangat efektif untuk tikus-tikus cerdas seperti di Furoma dan Dojo."
+    },
+    "Hydro": {
+      "canonical": "Hydro",
+      "aliases": ["air", "hydro", "water", "tipe air"],
+      "description": "Tipe kekuatan air yang digunakan di area perairan seperti Harbour, S.S. Huntington, dan Sunken City."
+    },
+    "Arcane": {
+      "canonical": "Arcane",
+      "aliases": ["arcane", "arkana", "sihir", "magis"],
+      "description": "Kekuatan mistis untuk menghadapi tikus gaib, undead di Catacombs, dan Forbidden Grove."
+    },
+    "Shadow": {
+      "canonical": "Shadow",
+      "aliases": ["shadow", "bayangan", "kegelapan", "tipe shadow"],
+      "description": "Kekuatan bayangan untuk menghadapi tikus bertema kuburan, malam hari, dan Mousoleum."
+    },
+    "Forgotten": {
+      "canonical": "Forgotten",
+      "aliases": ["forgotten", "terlupakan", "kuno", "tipe forgotten"],
+      "description": "Kekuatan kuno untuk menghadapi tikus purba dan kuno seperti di Acolyte Realm dan Jungle of Dread."
+    },
+    "Draconic": {
+      "canonical": "Draconic",
+      "aliases": ["draconic", "naga", "dragon", "tipe naga"],
+      "description": "Kekuatan khusus untuk menghadapi tikus ras naga seperti di Draconic Depths dan Moussu Picchu."
+    },
+    "Law": {
+      "canonical": "Law",
+      "aliases": ["law", "hukum", "koboi", "varmint"],
+      "description": "Kekuatan hukum yang digunakan di wilayah barat Varmint Valley dan Claw Shot City."
+    },
+    "Rift": {
+      "canonical": "Rift",
+      "aliases": ["rift", "celah dimensi", "dimensi rift"],
+      "description": "Kekuatan dimensi lain yang eksklusif digunakan di seluruh area Rift Plane."
+    },
+    "Parental": {
+      "canonical": "Parental",
+      "aliases": ["parental", "kasih sayang"],
+      "description": "Kekuatan khusus yang sangat jarang, biasanya digunakan untuk menangkap tikus anak-anak/induk."
+    }
+  },
+  "mouse_groups": [
+    "Indigenous Mice",
+    "Mountain Mice",
+    "Forest Guild",
+    "Furoma Mice",
+    "The Shadow Clan",
+    "Abyssal Depths",
+    "Tribal Isles",
+    "Sandtail Desert",
+    "Hollow Heights",
+    "Queso Canyon",
+    "Rift Plane",
+    "Beanstalkers",
+    "Draconic Depths",
+    "Event Mice"
+  ],
+  "cheese_categories": [
+    "Basic Bait",
+    "Standard Cheese",
+    "Crafted Cheese",
+    "Potion-Converted Cheese",
+    "Rift Cheese",
+    "SUPER|brie+",
+    "Magic Essence Cheeses"
+  ],
+  "item_categories": [
+    "weapons",
+    "bases",
+    "cheese",
+    "charms",
+    "crafting",
+    "potions",
+    "special",
+    "collectibles",
+    "skins",
+    "maps"
+  ]
+}

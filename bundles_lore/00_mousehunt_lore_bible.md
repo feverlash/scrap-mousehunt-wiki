@@ -210,11 +210,11 @@ During your travels you may find pages from the fabled MouseHunter Plankrun. The
 ---
 
 
-# 🐭 Bestiari & Ensiklopedia Lore Seluruh Spesies Tikus
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 1: A - C)
 
-Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia.
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad A - C)
 
-**Total Entitas**: 1316 entitas cerita  
+**Total Entitas**: 294 entitas tikus  
 
 ## 📑 Daftar Isi / Index:
 
@@ -240,9 +240,9 @@ Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan eleme
 - Amplified Brown Mouse
 - Amplified Grey Mouse
 - Amplified White Mouse
+- Ancient of the Deep
 - Ancient Scribe Mouse
 - Ancient Wisdom Keeper
-- Ancient of the Deep
 - Angelfish Mouse
 - Angler Mouse
 - Angry Aphid Mouse
@@ -321,8 +321,8 @@ Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan eleme
 - Borean Commander
 - Bottled Mouse
 - Bottom Feeder Mouse
-- Boulder Biter Mouse
 - Boulder and Pebble
+- Boulder Biter Mouse
 - Bounty Hunter Mouse
 - Branch Breaker Mouse
 - Brash Birch Mouse
@@ -512,1028 +512,6 @@ Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan eleme
 - Cycloness Mouse
 - Cyclops Barbarian Mouse
 - Cyclops Mouse
-- Dance Party Mouse
-- Dancer Mouse
-- Dancing Assassin Mouse
-- Dangerous Duo Mouse
-- Danielle Targatheon
-- Dark Magi Mouse
-- Dark Templar Mouse
-- Dashing Buccaneer Mouse
-- Dastardly Duchess Mouse
-- Data Devourer Mouse
-- Davy Jones Mouse
-- Dawn Guardian Mouse
-- Dawn Quixotic
-- Daydreamer Mouse
-- Decrepit Tentacle Terror
-- Deep Mouse
-- Deep Sea Diver Mouse
-- Defender Mouse
-- Dehydrated Mouse
-- Demolitions Mouse
-- Deranged Deckhand Mouse
-- Derpicorn Mouse
-- Derpshark Mouse
-- Derr Chieftain Mouse
-- Derr Lich Mouse
-- Desert Archer Mouse
-- Desert Architect Mouse
-- Desert Nomad Mouse
-- Desert Soldier Mouse
-- Desperado Mouse
-- Destructoy Mouse
-- Devious Gentleman Mouse
-- Diamond Mouse
-- Diamondhide Mouse
-- Dilemma Woodmouse
-- Diminutive Detainee Mouse
-- Dinosuit Mouse
-- Dire Lycan Mouse
-- Dirt Thing Mouse
-- Dojo Sensei
-- Doktor Mouse
-- Double Black Diamond Racer Mouse
-- Draconic Warden Mouse
-- Dragon Mouse
-- Dragonbreather Mouse
-- Dragoon Mouse
-- Dread Knight Mouse
-- Dread Pirate Mousert
-- Dream Drifter Mouse
-- Dreck Grimehaven
-- Drudge Mouse
-- Drummer Mouse
-- Duke of Reuben
-- Dumpling Chef Mouse
-- Dumpling Delivery Mouse
-- Dunehopper Mouse
-- Dungeon Master
-- Dwarf Mouse
-- Eagle Owl Mouse
-- Eclipse Mouse
-- Eel Mouse
-- Effervescent Mouse
-- Egg Painter Mouse
-- Egg Scrambler Mouse
-- Eggscavator Mouse
-- Eggsplosive Scientist Mouse
-- Eggsquisite Entertainer Mouse
-- El Flamenco Mouse
-- Elder Mouse
-- Elf Mouse
-- Elite Guardian Mouse
-- Elixir Maker Mouse
-- Elub Chieftain Mouse
-- Elub Lich Mouse
-- Elven Princess Mouse
-- Emberstone Scaled Mouse
-- Empyrean Appraiser Mouse
-- Empyrean Empress
-- Empyrean Geologist Mouse
-- Empyrean Javelineer Mouse
-- Enchanted Chess Club Champion Mouse
-- Enginseer Mouse
-- Enlightened Labourer Mouse
-- Enslaved Spirit Mouse
-- Epoch Golem Mouse
-- Escape Artist Mouse
-- Essence Collector Mouse
-- Essence Guardian Mouse
-- Ethereal Enchanter Mouse
-- Ethereal Engineer
-- Ethereal Guardian Mouse
-- Ethereal Librarian
-- Ethereal Thief Mouse
-- Evil Scientist Mouse
-- Excitable Electric Mouse
-- Exo-Tech Mouse
-- Explorator Mouse
-- Extreme Everysports Mouse
-- Factory Technician Mouse
-- Fairy Mouse
-- Fall Familiar Mouse
-- Fallen Champion Footman Mouse
-- Falling Carpet Mouse
-- Farmhand Mouse
-- Farrier Mouse
-- Featherlight Mouse
-- Fencer Mouse
-- Fete Fromager Mouse
-- Fetid Swamp Mouse
-- Fibbocchio
-- Fiddler Mouse
-- Field Mouse
-- Fiend Mouse
-- Fiery Crusher Mouse
-- Finder Mouse
-- Firebreather Mouse
-- Firefly Mouse
-- Flamboyant Flautist
-- Flame Archer Mouse
-- Flame Ordnance Mouse
-- Flame Warrior Mouse
-- Flamina Cinderbreath
-- Floating Spore Mouse
-- Flutterby Mouse
-- Fluttering Flutist Mouse
-- Flying Mouse
-- Fog Mouse
-- Force Fighter
-- Force Fighter Blue
-- Force Fighter Green
-- Force Fighter Pink
-- Force Fighter Red
-- Force Fighter Yellow
-- Forgotten Elder Mouse
-- Fortuitous Fool Mouse
-- Foxy Mouse
-- Free Skiing Mouse
-- Frightened Flying Fireworks Mouse
-- Frigid Foreman Mouse
-- Frigidocius Coldshot
-- Frog Mouse
-- Frost King
-- Frostbite Mouse
-- Frostlance Guard
-- Frostnip Icebound
-- Frostwing Commander
-- Frosty Snow Mouse
-- Frozen Mouse
-- Fuel Mouse
-- Ful'Mina the Mountain Queen
-- Fungal Frog Mouse
-- Fungal Spore Mouse
-- Fungal Technomorph Mouse
-- Funglore Mouse
-- Furious Fir Mouse
-- Fuzzy Drake Mouse
-- Gargantuamouse
-- Gargoyle Mouse
-- Gate Guardian Mouse
-- Gate Keeper Mouse
-- Gelatinous Octahedron Mouse
-- Gemorpher Mouse
-- Gemstone Worshipper Mouse
-- General Drheller
-- Gentleman Caller Mouse
-- Gerald Rivers
-- Ghost Mouse
-- Ghost Pirate Queen Mouse
-- Giant Snail Mouse
-- Gilded Leaf Mouse
-- Gingerbread Mouse
-- Glacia Ice Fist
-- Gladiator Mouse
-- Glamorous Gladiator Mouse
-- Glass Blower Mouse
-- Glazy Mouse
-- Glitchpaw Mouse
-- Gluttonous Zombie Mouse
-- Goblin Mouse
-- Gold Mouse
-- Goldleaf Mouse
-- Golem Mouse
-- Goliath Field Mouse
-- Goopus Dredgemore
-- Gorgon Mouse
-- Gourd Ghoul Mouse
-- Gourdborg
-- Grampa Golem Mouse
-- Grand Master of the Dojo Mouse
-- Grandfather Mouse
-- Grandolph the Green
-- Granite Mouse
-- Granny Spice Mouse
-- Grave Robber Mouse
-- Great Giftnapper Mouse
-- Great Ratsby
-- Great Winter Hunt Impostor
-- Greedy Al
-- Greedy Stone Grappler Mouse
-- Greenbeard
-- Grey Mouse
-- Grey Recluse Mouse
-- Greyrun Mouse
-- Grit Grifter Mouse
-- Grizzled Silth Mouse
-- Ground Gavaleer Mouse
-- Grubling Herder Mouse
-- Grubling Mouse
-- Grunt Mouse
-- Guardian Mouse
-- Guppy Mouse
-- Guqin Player Mouse
-- Gyrologer Mouse
-- Hall Monitor Mouse
-- Hans Cheesetian Squeakersen
-- Hapless Marionette
-- Hapless Mouse
-- Harbinger of Death Mouse
-- Hardboiled Mouse
-- Hardworking Hauler Mouse
-- Hardy Mice
-- Hare Razer Mouse
-- Harpy Mouse
-- Harvest Harrier Mouse
-- Harvester Mouse
-- Hazmat Mouse
-- Healer Mouse
-- Heart of the Meteor
-- Heavy Blaster Mouse
-- Hefty Hulking Hauler Mouse
-- Heinous Hemlock Mouse
-- Herbaceous Bravestalk
-- Herbicidal Maniac Mouse
-- Herbie Pirouette
-- Herc
-- High Roller Mouse
-- Hired Eidolon Mouse
-- Hoarder Mouse
-- Hollowed Minion Mouse
-- Hollowed Mouse
-- Hollowhead Mouse
-- Homeopathic Apothecary Mouse
-- Hookshot Mouse
-- Hope Mouse
-- Horned Cork Hoarder Mouse
-- Hot Head Mouse
-- Humphrey Dumphrey
-- Huntereater Mouse
-- Hurdle Mouse
-- Hydra Mouse
-- Hydrologist Mouse
-- Hydrophobe Mouse
-- Hypnotized Gunslinger Mouse
-- ITunes Mouse
-- Ice Regent
-- Iceberg Sculptor Mouse
-- Iceblade Mouse
-- Iceblock Mouse
-- Icebreaker Mouse
-- Icewing
-- Icicle Mouse
-- Iciclesius the Defender
-- Ignatia Mouse
-- Ignis Mouse
-- Ignoramius J. Wryly
-- Illustrious Illusionist Mouse
-- Impersonator Mouse
-- Incendarius the Unquenchable
-- Incompetent Ice Climber Mouse
-- Indigo Montana
-- Industrious Digger Mouse
-- Inferna the Engulfed
-- Inferno Mage Mouse
-- Infiltrator Mouse
-- Invisible Fashionista Mouse
-- Itty Bitty Rifty Burroughs Mouse
-- Itty-Bitty Burroughs Mouse
-- J.R.R. Token
-- Janis the Grey Witch
-- Jean Austere
-- Jellyfish Mouse
-- Jovial Jailor Mouse
-- Joy Mouse
-- Juliyes Mouse
-- Jurassic Mouse
-- Kalor'ignis of the Geyser
-- Karmachameleon Mouse
-- Keeper Mouse
-- Keeper's Assistant Mouse
-- Key Master Mouse
-- Killer Krill Mouse
-- King Grub Mouse
-- King Scarab Mouse
-- Kite Flyer Mouse
-- Knight Mouse
-- Koimaid Mouse
-- Kung Fu Mouse
-- Lab Technician Mouse
-- Lady Blatherly
-- Lady Breakwell
-- Lady Coldsnap
-- Lady MacBath
-- Lambent Crystal Mouse
-- Lambent Mouse
-- Lancer Guard
-- Land Loafer Mouse
-- Lasso Cowgirl Mouse
-- Launchpad Labourer Mouse
-- Lawbender Mouse
-- Leafton Beanwell
-- Leprechaun Mouse
-- Lethargic Guard Mouse
-- Leviathan Mouse
-- Lich Mouse
-- Lightning Rod Mouse
-- Limestone Miner Mouse
-- Lisa Doolots
-- Little Bo Squeak
-- Little Miss Fluffet
-- Living Ice Mouse
-- Living Salt Mouse
-- Loathsome Locust Mouse
-- Lockpick Mouse
-- Longtail Mouse
-- Lord Splodington
-- Lost Legionnaire Mouse
-- Lost Mouse
-- Loutish Loach Mouse
-- Lovely Sports Mouse
-- Lucky Mouse
-- Lumahead Mouse
-- Lumberjack Mouse
-- Lumi-lancer Mouse
-- Lunar Red Candle Maker Mouse
-- Lycan Mouse
-- Lycanoid
-- M1000
-- M400
-- Mad Elf Mouse
-- Madame Bogarty
-- Madame d'Ormouse
-- Mage Weaver Mouse
-- Magic Champion Mouse
-- Magic Mouse
-- Magical Multitasker Mouse
-- Magma Carrier Mouse
-- Magmarage Mouse
-- Magmatic Crystal Thief Mouse
-- Magmatic Golem Mouse
-- Magnatius Majestica
-- Mairitime Pirate Mouse
-- Maize Harvester Mouse
-- Malevolent Maestro
-- Malicious Marquis Mouse
-- Malignus Vilestrom Mouse
-- Mammoth Mouse
-- Manaforge Smith Mouse
-- Manatee Mouse
-- Maniacal Maple Mouse
-- Mark Twine
-- Market Guard Mouse
-- Market Thief Mouse
-- Martial Mouse
-- Masked Pikeman Mouse
-- Master Burglar Mouse
-- Master Exploder Mouse
-- Master of the Cheese Belt Mouse
-- Master of the Cheese Claw Mouse
-- Master of the Cheese Fang Mouse
-- Master of the Chi Belt Mouse
-- Master of the Chi Claw Mouse
-- Master of the Chi Fang Mouse
-- Master of the Dojo
-- Matriarch Gander Mouse
-- Matron of Machinery Mouse
-- Matron of Wealth Mouse
-- Mecha Tail Mouse
-- Medicine Mouse
-- Melancholy Merchant Mouse
-- Melodramatic Minnow Mouse
-- Menace of the Rift Mouse
-- Menacing Medusozoa Mouse
-- Mermouse
-- Mermousette
-- Mershark Mouse
-- Meteorite Golem Mouse
-- Meteorite Miner Mouse
-- Meteorite Mover Mouse
-- Meteorite Mystic Mouse
-- Meteorite Snacker Mouse
-- Mice
-- Micro Mouse
-- Mighty Mite Mouse
-- Mighty Mole Mouse
-- Mild Spicekin Mouse
-- Militant Samurai Mouse
-- Mimic Mouse
-- Mind Tearer Mouse
-- Miner Mouse
-- Mining Materials Manager Mouse
-- Mintaka Mouse
-- Mischievous Meteorite Miner Mouse
-- Mischievous Wereminer Mouse
-- Miser Mouse
-- Misfortune Teller Mouse
-- Miss Crunchbull
-- Missile Toe Mouse
-- Mist Maker Mouse
-- Mixing Mishap Mouse
-- Mlounder Flounder Mouse
-- Mobster Mouse
-- Mole Mouse
-- Molten Midas Mouse
-- Monarch Mouse
-- Monk Mouse
-- Monsoon Maker Mouse
-- Monster Mouse
-- Monster Tail Mouse
-- Monster of the Meteor
-- Monstrous Abomination Mouse
-- Monstrous Black Widow Mouse
-- Monstrous Midge Mouse
-- Moosker Mouse
-- Moss Comber Mouse
-- Mossy Moosker Mouse
-- Mouldy Mole Mouse
-- Mountain Mouse
-- Mousataur Priestess Mouse
-- Mouse Group
-- Mouse With No Name
-- Mouse of Elements Mouse
-- Mouse of Winter Future
-- Mouse of Winter Past
-- Mouse of Winter Present
-- Mousevina von Vermin
-- Moussile Mouse
-- Mr. Daresee
-- Mummy Mouse
-- Muscular Mussel Mouse
-- Mush Monster Mouse
-- Mush Mouse
-- Mushroom Harvester Mouse
-- Mushroom Sprite Mouse
-- Mutant Mongrel Mouse
-- Mutant Ninja Mouse
-- Mutated Behemoth Mouse
-- Mutated Brown Mouse
-- Mutated Grey Mouse
-- Mutated Mole Mouse
-- Mutated Siblings Mouse
-- Mutated White Mouse
-- Mysterious Traveller Mouse
-- Mystic Bishop Mouse
-- Mystic Guardian Mouse
-- Mystic Herald Mouse
-- Mystic King Mouse
-- Mystic Knight Mouse
-- Mystic Mouse
-- Mystic Pawn Mouse
-- Mystic Queen Mouse
-- Mystic Rook Mouse
-- Mystic Scholar Mouse
-- Mythical Dragon Emperor
-- Mythical Giant King
-- Mythical Master Sorcerer
-- Mythweaver
-- Nachore Golem Mouse
-- Nachous the Molten
-- Nancy Sketched
-- Narrator Mouse
-- Naturalist Mouse
-- Naughty Nougat Mouse
-- Necromancer Mouse
-- Nefarious Nautilus Mouse
-- Nerg Chieftain Mouse
-- Nerg Lich Mouse
-- New Year's Mouse
-- Nibbler Mouse
-- Nice Knitting Mouse
-- Night Shift Materials Manager Mouse
-- Night Watcher Mouse
-- Nightfire Mouse
-- Nightmancer Mouse
-- Nightshade Flower Girl Mouse
-- Nightshade Fungalmancer Mouse
-- Nightshade Maiden Mouse
-- Nightshade Masquerade Mouse
-- Nightshade Nanny Mouse
-- Nimbomancer Mouse
-- Ninja Mouse
-- Nitro Racer Mouse
-- Nomad Mouse
-- Nomadic Warrior Mouse
-- Noxio Sludgewell
-- Nugget Mouse
-- Nutcracker Mouse
-- Nyagarha the Falls Guardian
-- Obstinate Oboist Mouse
-- Octomermaid Mouse
-- Ol' King Coal
-- Old One Mouse
-- Old Spice Collector Mouse
-- One-Mouse Band Mouse
-- Onion Chopper
-- Ooze Mouse
-- Ore Chipper Mouse
-- Ornament Mouse
-- Outbreak Assassin Mouse
-- Outlaw Mouse
-- Over-Prepared Mouse
-- Overcaster Mouse
-- Oxygen Baron Mouse
-- Pack Mouse
-- Page Mouse
-- Paladin Mouse
-- Paladin Weapon Master Mouse
-- Pan Slammer Mouse
-- Para Para Dancer Mouse
-- Paragon of Arcane
-- Paragon of Dragons
-- Paragon of Forgotten
-- Paragon of Shadow
-- Paragon of Strength
-- Paragon of Tactics
-- Paragon of Water
-- Paragon of the Lawless
-- Parlour Player Mouse
-- Party Head Mouse
-- Passenger Mouse
-- Pathfinder Mouse
-- Peaceful Prisoner Mouse
-- Pearl Diver Mouse
-- Pearl Mouse
-- Pebble Mouse
-- Peevish Piccoloist Mouse
-- Peggy the Plunderer
-- Penguin Mouse
-- Pernicious Prince Mouse
-- Perpetual Detention Mouse
-- Pesky Pleco Mouse
-- Pestilentia the Putrid
-- Petra Pot
-- Phalanx Mouse
-- Phase Zombie
-- Photographer Mouse
-- Pie Thief Mouse
-- Pinchy Mouse
-- Pinkielina
-- Pintail Mouse
-- Pirate Anchor Mouse
-- Pirate Mouse
-- Plague Hag Mouse
-- Plotting Page Mouse
-- Plutonium Tentacle Mouse
-- Pneumatic Dirt Displacement Mouse
-- Pocketwatch Mouse
-- Polar Bear Mouse
-- Pompous Perch Mouse
-- Port Pillager Mouse
-- Portable Generator Mouse
-- Portal Paladin Mouse
-- Portal Plunderer Mouse
-- Portal Pursuer Mouse
-- Possessed Armaments Mouse
-- Praetorian Champion Mouse
-- Present Mouse
-- Prestigious Adventurer Mouse
-- Prestigious Prestidigitator Mouse
-- Primal Mouse
-- Prince Hapless
-- Princess Fist
-- Princess and the Olive
-- Professor Morty Artie
-- Prospector Mouse
-- Protector Mouse
-- Prototype Mouse
-- Puddlemancer Mouse
-- Puffer Mouse
-- Pugilist Mouse
-- Pump Raider Mouse
-- Pumpkin Head Mouse
-- Pumpkin Hoarder Mouse
-- Puppet Champion Mouse
-- Puppet Master Mouse
-- Puppetto Mouse
-- Pygmy Wrangler Mouse
-- Pyrehyde Mouse
-- Pyrite Mouse
-- Quarrelsome Quartermaster Mouse
-- Queen Quesada Mouse
-- Queso Extractor Mouse
-- Quesodillo Mouse
-- Quillback Mouse
-- RR-8 Mouse
-- Radioactive Ooze Mouse
-- Rain Collector Mouse
-- Rain Summoner Mouse
-- Rain Wallower Mouse
-- Rainbow Racer Mouse
-- Rainmancer Mouse
-- Rainwater Purifier Mouse
-- Rambunctious Rain Rumbler Mouse
-- Rampaging Redwood Mouse
-- Rancid Bog Beast Mouse
-- Ratberry
-- Ravenous Zombie Mouse
-- Raw Diamond Mouse
-- Reality Restitch Mouse
-- Realm Ripper
-- Reanimated Carver Mouse
-- Reaper Mouse
-- Record Keeper Mouse
-- Record Keeper's Assistant Mouse
-- Red Coat Bear Mouse
-- Red Envelope Mouse
-- Red Valet
-- Red-Eyed Watcher Owl Mouse
-- Regal Spearman Mouse
-- Reinbo
-- Relic Hunter Mouse
-- Renegade Mouse
-- Retired Minotaur Mouse
-- Reveling Lycanthrope Mouse
-- Revenant Mouse
-- Ribbon Mouse
-- Richard the Rich
-- Ridiculous Sweater Mouse
-- Rift Bio Engineer
-- Rift Guardian Mouse
-- Rift Tiger
-- Rifterranian Mouse
-- Riftweaver Mouse
-- Rimeus Polarblast Mouse
-- Rinsebreeze
-- Riptide Mouse
-- Robat Mouse
-- Robbin' Cloak
-- Rock Muncher Mouse
-- Rocketeer Mouse
-- Rockstar Mouse
-- Rogue Mouse
-- Romance Weaver
-- Romeno Mouse
-- Romeo Mouse
-- Root Rummager Mouse
-- Rouge O'Hair
-- Rubble Rouser Mouse
-- Rubble Rummager Mouse
-- Ruffian Mouse
-- S.N.O.W. Golem Mouse
-- Saboteur Mouse
-- Sacred Shrine Mouse
-- Saloon Gal Mouse
-- Salt Water Snapper Mouse
-- Saltwater Axolotl Mouse
-- Samurai Mouse
-- Sand Cavalry Mouse
-- Sand Colossus Mouse
-- Sand Dollar Diver Mouse
-- Sand Dollar Queen Mouse
-- Sand Pilgrim
-- Sand Sifter Mouse
-- Sandmouse
-- Sandwing Cavalry Mouse
-- Sanguinarian Mouse
-- Sap Stealer Mouse
-- Sarcophamouse
-- Sardonic Sapling Mouse
-- Sassy Salsa Dancer Mouse
-- Scarab Mouse
-- Scarecrow Mouse
-- Scarlet Revenger Mouse
-- Scavenger Mouse
-- Scheming Squire Mouse
-- School of Mish
-- Scorned Pirate Mouse
-- Scornful Scallop Mouse
-- Scout Mouse
-- Scrap Metal Monster Mouse
-- Scribe Mouse
-- Scrooge Mouse
-- Scruffy Mouse
-- Seadragon Mouse
-- Seasoned Islandographer Mouse
-- Seer Mouse
-- Sentient Slime Mouse
-- Sentinel Mouse
-- Serpent Monster Mouse
-- Serpentine Mouse
-- Shackled Servant Mouse
-- Shade of the Eclipse Mouse
-- Shadow Master Sorcerer
-- Shadow Sage Mouse
-- Shadow Stalker Mouse
-- Shaman Mouse
-- Shaolin Kung Fu Mouse
-- Shard Centurion Mouse
-- Sharpshooter Mouse
-- Shattered Carmine
-- Shattered Obsidian Mouse
-- Shelder Mouse
-- Shifty Shrimp Mouse
-- Shimmerdread the Sovereign of Spice
-- Shinobi Mouse
-- Shipwrecked Mouse
-- Shopkeeper Mouse
-- Shortcut Mouse
-- Shorts-All-Year Mouse
-- Shroom Mouse
-- Silth Mouse
-- Silvertail Mouse
-- Sinister Egg Painter
-- Sinister Squid Mouse
-- Sir Fleekio Mouse
-- Siren Mouse
-- Sizzle Pup Mouse
-- Skeletal Champion Mouse
-- Skeleton Mouse
-- Skillful Mr. Cutley
-- Sky Dancer Mouse
-- Sky Glass Glazier
-- Sky Glass Sorcerer Mouse
-- Sky Glider Mouse
-- Sky Greaser Mouse
-- Sky Highborne Mouse
-- Sky Squire Mouse
-- Sky Surfer
-- Sky Swordsman Mouse
-- Skydiver Mouse
-- Slay Ride Mouse
-- Slayer Mouse
-- Sleep Starved Scholar Mouse
-- Sleepwalker Mouse
-- Sleepy Merchant Mouse
-- Slimefist Mouse
-- Slipstream the Virtuoso of Vapours
-- Slope Swimmer Mouse
-- Sludge Mouse
-- Sludge Scientist Mouse
-- Sludge Soaker Mouse
-- Sludge Swimmer Mouse
-- Sly Skulking Scrapper Mouse
-- Smoldersnap Mouse
-- Smug Smuggler Mouse
-- Snake Charmer Mouse
-- Snooty Mouse
-- Snow Boulder Mouse
-- Snow Bowler Mouse
-- Snow Fort Mouse
-- Snow Golem Architect Mouse
-- Snow Golem Jockey Mouse
-- Snow Scavenger
-- Snow Slinger Mouse
-- Snow Sniper Mouse
-- Snow Soldier Mouse
-- Snow Sorceress
-- Snowball Hoarder Mouse
-- Snowblind Mouse
-- Snowblower Mouse
-- Snowflake Mouse
-- Snowglobe Mouse
-- Sock Puppet Ghost Mouse
-- Soldier of the Shade Mouse
-- Solemn Soldier Mouse
-- Soothsayer Mouse
-- Sorcerer Mouse
-- Soul Binder Mouse
-- Sour Sprout Mouse
-- Space Party-Time Plumber Mouse
-- Spear Fisher Mouse
-- Spectral Butler Mouse
-- Spectral Swashbuckler Mouse
-- Spectre Mouse
-- Speedy Mouse
-- Spellbinder Mouse
-- Spheric Diviner
-- Spice Farmer Mouse
-- Spice Finder Mouse
-- Spice Merchant Mouse
-- Spice Raider Mouse
-- Spice Reaper Mouse
-- Spice Seer Mouse
-- Spice Sovereign Mouse
-- Spider Mouse
-- Spiked Burrower Mouse
-- Spiky Devil Mouse
-- Spirit Fox Mouse
-- Spirit Light Mouse
-- Spirit of Balance
-- Spiritual Steel Mouse
-- Splintered Stone Sentry Mouse
-- Spore Mouse
-- Spore Muncher Mouse
-- Spore Salesman Mouse
-- Sporeticus Mouse
-- Sporty Ski Instructor Mouse
-- Spotted Mouse
-- Spring Familiar Mouse
-- Spring Sprig Mouse
-- Sprinkly Sweet Cupcake Cook Mouse
-- Spry Sky Explorer Mouse
-- Spry Sky Seer Mouse
-- Spud Mouse
-- Squeaken Mouse
-- Squeaker Bot Mouse
-- Squeaker Claws
-- Squire Sizzleton
-- Stack of Thieves
-- Stagecoach Driver Mouse
-- Stalagmite Mouse
-- Stealth Mouse
-- Steam Grip Mouse
-- Steam Sailor Mouse
-- Steel Horse Rider Mouse
-- Steel Mouse
-- Stickybomber Mouse
-- Stinger Mouse
-- Stingray Mouse
-- Stocking Mouse
-- Stone Cutter Mouse
-- Stone Maiden Mouse
-- Stonework Warrior Mouse
-- Stormsurge the Vile Tempest
-- Stoutgear Mouse
-- Stowaway Mouse
-- Stratocaster Mouse
-- Strawberry Hotcakes Mouse
-- Stubby Scrap Scavenger Mouse
-- Stuck Snowball Mouse
-- Student of the Cheese Belt Mouse
-- Student of the Cheese Claw Mouse
-- Student of the Cheese Fang Mouse
-- Student of the Chi Belt Mouse
-- Student of the Chi Claw Mouse
-- Student of the Chi Fang Mouse
-- Stuffy Banker Mouse
-- Suave Pirate Mouse
-- Subterranean Mouse
-- Sugar Rush Mouse
-- Sulfurious the Raging Inferno
-- Sultry Saxophonist Mouse
-- Summer Mage Mouse
-- Summoning Scholar Mouse
-- Sunken Banshee Mouse
-- Sunken Citizen Mouse
-- Super FighterBot MegaSupreme
-- Super Mega Mecha Ultra RoboGold Mouse
-- Supernatural Mouse
-- Supply Hoarder Mouse
-- Supreme Sensei
-- Supremia Magnificus
-- Surgeon Bot Mouse
-- Suspense Weaver
-- Swabbie Mouse
-- Swamp Runner Mouse
-- Swamp Thang Mouse
-- Swarm of Pygmy Mice
-- Swashblade Mouse
-- Swift Stone Snatcher Mouse
-- Sylvan Mouse
-- Tackle Tracker Mouse
-- Tadpole Mouse
-- Taleweaver Mouse
-- Tanglefoot Mouse
-- Tech Golem Mouse
-- Tech Ravenous Zombie
-- Technic Bishop Mouse
-- Technic King Mouse
-- Technic Knight Mouse
-- Technic Pawn Mouse
-- Technic Queen Mouse
-- Technic Rook Mouse
-- Teenage Vampire Mouse
-- Telekinetic Mutant Mouse
-- Teleporting Truant Mouse
-- Tentacle Mouse
-- Terra Mouse
-- Terrible Twos Mouse
-- Terrified Adventurer Mouse
-- Terror Knight Mouse
-- The Menace Mouse
-- The Total Eclipse
-- Theurgy Warden Mouse
-- Thirsty Mouse
-- Thistle Mouse
-- Thorn Mouse
-- Three Mouseketeers
-- Three'amat the Mother of Dragons
-- Thunder Strike
-- Thundering Watcher Mouse
-- Tidal Fisher Mouse
-- Tiger Mouse
-- Time Punk Mouse
-- Time Tailor Mouse
-- Time Thief Mouse
-- Timeless Lich Mouse
-- Timelost Thaumaturge Mouse
-- Timeslither Pythoness Mouse
-- Timid Explorer Mouse
-- Tiny Dragonfly Mouse
-- Tiny Mouse
-- Tiny Saboteur Mouse
-- Tiny Toppler Mouse
-- Titanic Brain-Taker Mouse
-- Toboggan Technician Mouse
-- Tomb Exhumer Mouse
-- Tome Sprite Mouse
-- Tonic Salesman Mouse
-- Torchbearer Tinderhelm
-- Totally Not Tax Fraud Mouse
-- Toxic Avenger Mouse
-- Toxic Warrior Mouse
-- Toxikinetic Mouse
-- Toy Mouse
-- Toy Sylvan Mouse
-- Toy Tinkerer Mouse
-- Tragedy Weaver
-- Trailblazer Mouse
-- Train Conductor Mouse
-- Train Engineer Mouse
-- Trampoline Mouse
-- Tranquilia Protecticus
-- Travelling Barber Mouse
-- Treacherous Dock Lurker Mouse
-- Treacherous Tubaist Mouse
-- Treant Mouse
-- Treant Queen Mouse
-- Treasure Brawler Mouse
-- Treasure Hoarder Mouse
-- Treasure Keeper Mouse
-- Treasurer Mouse
-- Treat Mouse
-- Tree Troll Mouse
-- Tri-dra Mouse
-- Trick Mouse
-- Tricky Witch Mouse
-- Triple Lutz Mouse
-- Tritus Mouse
-- Troll Mouse
-- Tumblestaff
-- Tumbleweed Mouse
-- Tundra Huntress
-- Turret Guard Mouse
-- Twisted Carmine
-- Twisted Fiend Mouse
-- Twisted Hotcakes Mouse
-- Twisted Lilly Mouse
-- Twisted Treant Mouse
-- Twisted Twig Mouse
-- Tyrannical Thaumaturge Mouse
-- Ultimate Mythweaver
-- Uncoordinated Cauldron Carrier Mouse
-- Undertaker Mouse
-- Unknown Mouse
-- Unwavering Adventurer Mouse
-- Upper Class Lady Mouse
-- Urchin King Mouse
-- Vampire Mouse
-- Vanguard Mouse
-- Vanquisher Mouse
-- Vaporior Mouse
-- Venomona Festerbloom
-- Vicious Vampire Squid Mouse
-- Vigilant Ward Mouse
-- Vincent the Magnificent
-- Vindictive Viscount Mouse
-- Vinetail Mouse
-- Vinneus Stalkhome
-- Violent Violinist Mouse
-- Violet Stormchild
-- Wailing Willow Mouse
-- Walker Mouse
-- Wandering Monk Mouse
-- Warden of Fog
-- Warden of Frost
-- Warden of Rain
-- Warden of Wind
-- Warehouse Manager Mouse
-- Warming Wyvern Mouse
-- Warmonger Mouse
-- Water Nymph Mouse
-- Water Sprite Mouse
-- Water Wielder Mouse
-- Wave Racer Mouse
-- Wealth Mouse
-- Wealthy Werewarrior Mouse
-- Werehauler Mouse
-- Wereminer Mouse
-- Whelpling Mouse
-- Whimsical Waltzer Mouse
-- Whirleygig Mouse
-- White Mage Mouse
-- White Mouse
-- Wicked Witch of Whisker Woods Mouse
-- Wiggler Mouse
-- Wight Mouse
-- Wild Chainsaw Mouse
-- Wily Weevil Mouse
-- Wind Warrior Mouse
-- Wind Watcher Mouse
-- Windy Farmer Mouse
-- Winged Harpy Mouse
-- Winter Games Mouse
-- Winter Mage Mouse
-- Withered Remains Mouse
-- Wolfskie Mouse
-- Wordsmith Mouse
-- Worker Mouse
-- Worried Wayfinder Mouse
-- Wound Up White Mouse
-- Wrathful Warden Mouse
-- Wreath Thief Mouse
-- Yeti Mouse
-- Young Prodigy Racer Mouse
-- Zealous Academic Mouse
-- Zephrum Bobblebrox
-- Zephyr Mouse
-- Zombie Mouse
-- Zombot Unipire Mouse
-- Zombot Unipire the Third
-- Zurreal the Eternal
-- ⚡Thunderlord⚡
 
 ---
 
@@ -13556,6 +12534,275 @@ Simple Orb
 
 ---
 
+
+
+---
+
+
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 2: D - H)
+
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad D - H)
+
+**Total Entitas**: 253 entitas tikus  
+
+## 📑 Daftar Isi / Index:
+
+- Dance Party Mouse
+- Dancer Mouse
+- Dancing Assassin Mouse
+- Dangerous Duo Mouse
+- Danielle Targatheon
+- Dark Magi Mouse
+- Dark Templar Mouse
+- Dashing Buccaneer Mouse
+- Dastardly Duchess Mouse
+- Data Devourer Mouse
+- Davy Jones Mouse
+- Dawn Guardian Mouse
+- Dawn Quixotic
+- Daydreamer Mouse
+- Decrepit Tentacle Terror
+- Deep Mouse
+- Deep Sea Diver Mouse
+- Defender Mouse
+- Dehydrated Mouse
+- Demolitions Mouse
+- Deranged Deckhand Mouse
+- Derpicorn Mouse
+- Derpshark Mouse
+- Derr Chieftain Mouse
+- Derr Lich Mouse
+- Desert Archer Mouse
+- Desert Architect Mouse
+- Desert Nomad Mouse
+- Desert Soldier Mouse
+- Desperado Mouse
+- Destructoy Mouse
+- Devious Gentleman Mouse
+- Diamond Mouse
+- Diamondhide Mouse
+- Dilemma Woodmouse
+- Diminutive Detainee Mouse
+- Dinosuit Mouse
+- Dire Lycan Mouse
+- Dirt Thing Mouse
+- Dojo Sensei
+- Doktor Mouse
+- Double Black Diamond Racer Mouse
+- Draconic Warden Mouse
+- Dragon Mouse
+- Dragonbreather Mouse
+- Dragoon Mouse
+- Dread Knight Mouse
+- Dread Pirate Mousert
+- Dream Drifter Mouse
+- Dreck Grimehaven
+- Drudge Mouse
+- Drummer Mouse
+- Duke of Reuben
+- Dumpling Chef Mouse
+- Dumpling Delivery Mouse
+- Dunehopper Mouse
+- Dungeon Master
+- Dwarf Mouse
+- Eagle Owl Mouse
+- Eclipse Mouse
+- Eel Mouse
+- Effervescent Mouse
+- Egg Painter Mouse
+- Egg Scrambler Mouse
+- Eggscavator Mouse
+- Eggsplosive Scientist Mouse
+- Eggsquisite Entertainer Mouse
+- El Flamenco Mouse
+- Elder Mouse
+- Elf Mouse
+- Elite Guardian Mouse
+- Elixir Maker Mouse
+- Elub Chieftain Mouse
+- Elub Lich Mouse
+- Elven Princess Mouse
+- Emberstone Scaled Mouse
+- Empyrean Appraiser Mouse
+- Empyrean Empress
+- Empyrean Geologist Mouse
+- Empyrean Javelineer Mouse
+- Enchanted Chess Club Champion Mouse
+- Enginseer Mouse
+- Enlightened Labourer Mouse
+- Enslaved Spirit Mouse
+- Epoch Golem Mouse
+- Escape Artist Mouse
+- Essence Collector Mouse
+- Essence Guardian Mouse
+- Ethereal Enchanter Mouse
+- Ethereal Engineer
+- Ethereal Guardian Mouse
+- Ethereal Librarian
+- Ethereal Thief Mouse
+- Evil Scientist Mouse
+- Excitable Electric Mouse
+- Exo-Tech Mouse
+- Explorator Mouse
+- Extreme Everysports Mouse
+- Factory Technician Mouse
+- Fairy Mouse
+- Fall Familiar Mouse
+- Fallen Champion Footman Mouse
+- Falling Carpet Mouse
+- Farmhand Mouse
+- Farrier Mouse
+- Featherlight Mouse
+- Fencer Mouse
+- Fete Fromager Mouse
+- Fetid Swamp Mouse
+- Fibbocchio
+- Fiddler Mouse
+- Field Mouse
+- Fiend Mouse
+- Fiery Crusher Mouse
+- Finder Mouse
+- Firebreather Mouse
+- Firefly Mouse
+- Flamboyant Flautist
+- Flame Archer Mouse
+- Flame Ordnance Mouse
+- Flame Warrior Mouse
+- Flamina Cinderbreath
+- Floating Spore Mouse
+- Flutterby Mouse
+- Fluttering Flutist Mouse
+- Flying Mouse
+- Fog Mouse
+- Force Fighter
+- Force Fighter Blue
+- Force Fighter Green
+- Force Fighter Pink
+- Force Fighter Red
+- Force Fighter Yellow
+- Forgotten Elder Mouse
+- Fortuitous Fool Mouse
+- Foxy Mouse
+- Free Skiing Mouse
+- Frightened Flying Fireworks Mouse
+- Frigid Foreman Mouse
+- Frigidocius Coldshot
+- Frog Mouse
+- Frost King
+- Frostbite Mouse
+- Frostlance Guard
+- Frostnip Icebound
+- Frostwing Commander
+- Frosty Snow Mouse
+- Frozen Mouse
+- Fuel Mouse
+- Ful'Mina the Mountain Queen
+- Fungal Frog Mouse
+- Fungal Spore Mouse
+- Fungal Technomorph Mouse
+- Funglore Mouse
+- Furious Fir Mouse
+- Fuzzy Drake Mouse
+- Gargantuamouse
+- Gargoyle Mouse
+- Gate Guardian Mouse
+- Gate Keeper Mouse
+- Gelatinous Octahedron Mouse
+- Gemorpher Mouse
+- Gemstone Worshipper Mouse
+- General Drheller
+- Gentleman Caller Mouse
+- Gerald Rivers
+- Ghost Mouse
+- Ghost Pirate Queen Mouse
+- Giant Snail Mouse
+- Gilded Leaf Mouse
+- Gingerbread Mouse
+- Glacia Ice Fist
+- Gladiator Mouse
+- Glamorous Gladiator Mouse
+- Glass Blower Mouse
+- Glazy Mouse
+- Glitchpaw Mouse
+- Gluttonous Zombie Mouse
+- Goblin Mouse
+- Gold Mouse
+- Goldleaf Mouse
+- Golem Mouse
+- Goliath Field Mouse
+- Goopus Dredgemore
+- Gorgon Mouse
+- Gourd Ghoul Mouse
+- Gourdborg
+- Grampa Golem Mouse
+- Grand Master of the Dojo Mouse
+- Grandfather Mouse
+- Grandolph the Green
+- Granite Mouse
+- Granny Spice Mouse
+- Grave Robber Mouse
+- Great Giftnapper Mouse
+- Great Ratsby
+- Great Winter Hunt Impostor
+- Greedy Al
+- Greedy Stone Grappler Mouse
+- Greenbeard
+- Grey Mouse
+- Grey Recluse Mouse
+- Greyrun Mouse
+- Grit Grifter Mouse
+- Grizzled Silth Mouse
+- Ground Gavaleer Mouse
+- Grubling Herder Mouse
+- Grubling Mouse
+- Grunt Mouse
+- Guardian Mouse
+- Guppy Mouse
+- Guqin Player Mouse
+- Gyrologer Mouse
+- Hall Monitor Mouse
+- Hans Cheesetian Squeakersen
+- Hapless Marionette
+- Hapless Mouse
+- Harbinger of Death Mouse
+- Hardboiled Mouse
+- Hardworking Hauler Mouse
+- Hardy Mice
+- Hare Razer Mouse
+- Harpy Mouse
+- Harvest Harrier Mouse
+- Harvester Mouse
+- Hazmat Mouse
+- Healer Mouse
+- Heart of the Meteor
+- Heavy Blaster Mouse
+- Hefty Hulking Hauler Mouse
+- Heinous Hemlock Mouse
+- Herbaceous Bravestalk
+- Herbicidal Maniac Mouse
+- Herbie Pirouette
+- Herc
+- High Roller Mouse
+- Hired Eidolon Mouse
+- Hoarder Mouse
+- Hollowed Minion Mouse
+- Hollowed Mouse
+- Hollowhead Mouse
+- Homeopathic Apothecary Mouse
+- Hookshot Mouse
+- Hope Mouse
+- Horned Cork Hoarder Mouse
+- Hot Head Mouse
+- Humphrey Dumphrey
+- Huntereater Mouse
+- Hurdle Mouse
+- Hydra Mouse
+- Hydrologist Mouse
+- Hydrophobe Mouse
+- Hypnotized Gunslinger Mouse
+
+---
+
 # 🐭 Dance Party Mouse
 
 > **Entity**: Mouse_lore
@@ -24547,6 +23794,235 @@ The Hypnotized Gunslinger Mouse can only be encountered during the Midnight, Pit
 
 - 3 November 2016: The Hypnotized Gunslinger Mouse was release as a part of Fort Rox update.
 
+
+---
+
+
+
+---
+
+
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 3: I - M)
+
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad I - M)
+
+**Total Entitas**: 213 entitas tikus  
+
+## 📑 Daftar Isi / Index:
+
+- Ice Regent
+- Iceberg Sculptor Mouse
+- Iceblade Mouse
+- Iceblock Mouse
+- Icebreaker Mouse
+- Icewing
+- Icicle Mouse
+- Iciclesius the Defender
+- Ignatia Mouse
+- Ignis Mouse
+- Ignoramius J. Wryly
+- Illustrious Illusionist Mouse
+- Impersonator Mouse
+- Incendarius the Unquenchable
+- Incompetent Ice Climber Mouse
+- Indigo Montana
+- Industrious Digger Mouse
+- Inferna the Engulfed
+- Inferno Mage Mouse
+- Infiltrator Mouse
+- Invisible Fashionista Mouse
+- Itty Bitty Rifty Burroughs Mouse
+- Itty-Bitty Burroughs Mouse
+- ITunes Mouse
+- J.R.R. Token
+- Janis the Grey Witch
+- Jean Austere
+- Jellyfish Mouse
+- Jovial Jailor Mouse
+- Joy Mouse
+- Juliyes Mouse
+- Jurassic Mouse
+- Kalor'ignis of the Geyser
+- Karmachameleon Mouse
+- Keeper Mouse
+- Keeper's Assistant Mouse
+- Key Master Mouse
+- Killer Krill Mouse
+- King Grub Mouse
+- King Scarab Mouse
+- Kite Flyer Mouse
+- Knight Mouse
+- Koimaid Mouse
+- Kung Fu Mouse
+- Lab Technician Mouse
+- Lady Blatherly
+- Lady Breakwell
+- Lady Coldsnap
+- Lady MacBath
+- Lambent Crystal Mouse
+- Lambent Mouse
+- Lancer Guard
+- Land Loafer Mouse
+- Lasso Cowgirl Mouse
+- Launchpad Labourer Mouse
+- Lawbender Mouse
+- Leafton Beanwell
+- Leprechaun Mouse
+- Lethargic Guard Mouse
+- Leviathan Mouse
+- Lich Mouse
+- Lightning Rod Mouse
+- Limestone Miner Mouse
+- Lisa Doolots
+- Little Bo Squeak
+- Little Miss Fluffet
+- Living Ice Mouse
+- Living Salt Mouse
+- Loathsome Locust Mouse
+- Lockpick Mouse
+- Longtail Mouse
+- Lord Splodington
+- Lost Legionnaire Mouse
+- Lost Mouse
+- Loutish Loach Mouse
+- Lovely Sports Mouse
+- Lucky Mouse
+- Lumahead Mouse
+- Lumberjack Mouse
+- Lumi-lancer Mouse
+- Lunar Red Candle Maker Mouse
+- Lycan Mouse
+- Lycanoid
+- M1000
+- M400
+- Mad Elf Mouse
+- Madame Bogarty
+- Madame d'Ormouse
+- Mage Weaver Mouse
+- Magic Champion Mouse
+- Magic Mouse
+- Magical Multitasker Mouse
+- Magma Carrier Mouse
+- Magmarage Mouse
+- Magmatic Crystal Thief Mouse
+- Magmatic Golem Mouse
+- Magnatius Majestica
+- Mairitime Pirate Mouse
+- Maize Harvester Mouse
+- Malevolent Maestro
+- Malicious Marquis Mouse
+- Malignus Vilestrom Mouse
+- Mammoth Mouse
+- Manaforge Smith Mouse
+- Manatee Mouse
+- Maniacal Maple Mouse
+- Mark Twine
+- Market Guard Mouse
+- Market Thief Mouse
+- Martial Mouse
+- Masked Pikeman Mouse
+- Master Burglar Mouse
+- Master Exploder Mouse
+- Master of the Cheese Belt Mouse
+- Master of the Cheese Claw Mouse
+- Master of the Cheese Fang Mouse
+- Master of the Chi Belt Mouse
+- Master of the Chi Claw Mouse
+- Master of the Chi Fang Mouse
+- Master of the Dojo
+- Matriarch Gander Mouse
+- Matron of Machinery Mouse
+- Matron of Wealth Mouse
+- Mecha Tail Mouse
+- Medicine Mouse
+- Melancholy Merchant Mouse
+- Melodramatic Minnow Mouse
+- Menace of the Rift Mouse
+- Menacing Medusozoa Mouse
+- Mermouse
+- Mermousette
+- Mershark Mouse
+- Meteorite Golem Mouse
+- Meteorite Miner Mouse
+- Meteorite Mover Mouse
+- Meteorite Mystic Mouse
+- Meteorite Snacker Mouse
+- Mice
+- Micro Mouse
+- Mighty Mite Mouse
+- Mighty Mole Mouse
+- Mild Spicekin Mouse
+- Militant Samurai Mouse
+- Mimic Mouse
+- Mind Tearer Mouse
+- Miner Mouse
+- Mining Materials Manager Mouse
+- Mintaka Mouse
+- Mischievous Meteorite Miner Mouse
+- Mischievous Wereminer Mouse
+- Miser Mouse
+- Misfortune Teller Mouse
+- Miss Crunchbull
+- Missile Toe Mouse
+- Mist Maker Mouse
+- Mixing Mishap Mouse
+- Mlounder Flounder Mouse
+- Mobster Mouse
+- Mole Mouse
+- Molten Midas Mouse
+- Monarch Mouse
+- Monk Mouse
+- Monsoon Maker Mouse
+- Monster Mouse
+- Monster of the Meteor
+- Monster Tail Mouse
+- Monstrous Abomination Mouse
+- Monstrous Black Widow Mouse
+- Monstrous Midge Mouse
+- Moosker Mouse
+- Moss Comber Mouse
+- Mossy Moosker Mouse
+- Mouldy Mole Mouse
+- Mountain Mouse
+- Mousataur Priestess Mouse
+- Mouse Group
+- Mouse of Elements Mouse
+- Mouse of Winter Future
+- Mouse of Winter Past
+- Mouse of Winter Present
+- Mouse With No Name
+- Mousevina von Vermin
+- Moussile Mouse
+- Mr. Daresee
+- Mummy Mouse
+- Muscular Mussel Mouse
+- Mush Monster Mouse
+- Mush Mouse
+- Mushroom Harvester Mouse
+- Mushroom Sprite Mouse
+- Mutant Mongrel Mouse
+- Mutant Ninja Mouse
+- Mutated Behemoth Mouse
+- Mutated Brown Mouse
+- Mutated Grey Mouse
+- Mutated Mole Mouse
+- Mutated Siblings Mouse
+- Mutated White Mouse
+- Mysterious Traveller Mouse
+- Mystic Bishop Mouse
+- Mystic Guardian Mouse
+- Mystic Herald Mouse
+- Mystic King Mouse
+- Mystic Knight Mouse
+- Mystic Mouse
+- Mystic Pawn Mouse
+- Mystic Queen Mouse
+- Mystic Rook Mouse
+- Mystic Scholar Mouse
+- Mythical Dragon Emperor
+- Mythical Giant King
+- Mythical Master Sorcerer
+- Mythweaver
 
 ---
 
@@ -35812,6 +35288,205 @@ With Silver Quill and Golden Quill, the following loot is added to the pool:
 
 ---
 
+
+
+---
+
+
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 4: N - R)
+
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad N - R)
+
+**Total Entitas**: 183 entitas tikus  
+
+## 📑 Daftar Isi / Index:
+
+- Nachore Golem Mouse
+- Nachous the Molten
+- Nancy Sketched
+- Narrator Mouse
+- Naturalist Mouse
+- Naughty Nougat Mouse
+- Necromancer Mouse
+- Nefarious Nautilus Mouse
+- Nerg Chieftain Mouse
+- Nerg Lich Mouse
+- New Year's Mouse
+- Nibbler Mouse
+- Nice Knitting Mouse
+- Night Shift Materials Manager Mouse
+- Night Watcher Mouse
+- Nightfire Mouse
+- Nightmancer Mouse
+- Nightshade Flower Girl Mouse
+- Nightshade Fungalmancer Mouse
+- Nightshade Maiden Mouse
+- Nightshade Masquerade Mouse
+- Nightshade Nanny Mouse
+- Nimbomancer Mouse
+- Ninja Mouse
+- Nitro Racer Mouse
+- Nomad Mouse
+- Nomadic Warrior Mouse
+- Noxio Sludgewell
+- Nugget Mouse
+- Nutcracker Mouse
+- Nyagarha the Falls Guardian
+- Obstinate Oboist Mouse
+- Octomermaid Mouse
+- Ol' King Coal
+- Old One Mouse
+- Old Spice Collector Mouse
+- One-Mouse Band Mouse
+- Onion Chopper
+- Ooze Mouse
+- Ore Chipper Mouse
+- Ornament Mouse
+- Outbreak Assassin Mouse
+- Outlaw Mouse
+- Over-Prepared Mouse
+- Overcaster Mouse
+- Oxygen Baron Mouse
+- Pack Mouse
+- Page Mouse
+- Paladin Mouse
+- Paladin Weapon Master Mouse
+- Pan Slammer Mouse
+- Para Para Dancer Mouse
+- Paragon of Arcane
+- Paragon of Dragons
+- Paragon of Forgotten
+- Paragon of Shadow
+- Paragon of Strength
+- Paragon of Tactics
+- Paragon of the Lawless
+- Paragon of Water
+- Parlour Player Mouse
+- Party Head Mouse
+- Passenger Mouse
+- Pathfinder Mouse
+- Peaceful Prisoner Mouse
+- Pearl Diver Mouse
+- Pearl Mouse
+- Pebble Mouse
+- Peevish Piccoloist Mouse
+- Peggy the Plunderer
+- Penguin Mouse
+- Pernicious Prince Mouse
+- Perpetual Detention Mouse
+- Pesky Pleco Mouse
+- Pestilentia the Putrid
+- Petra Pot
+- Phalanx Mouse
+- Phase Zombie
+- Photographer Mouse
+- Pie Thief Mouse
+- Pinchy Mouse
+- Pinkielina
+- Pintail Mouse
+- Pirate Anchor Mouse
+- Pirate Mouse
+- Plague Hag Mouse
+- Plotting Page Mouse
+- Plutonium Tentacle Mouse
+- Pneumatic Dirt Displacement Mouse
+- Pocketwatch Mouse
+- Polar Bear Mouse
+- Pompous Perch Mouse
+- Port Pillager Mouse
+- Portable Generator Mouse
+- Portal Paladin Mouse
+- Portal Plunderer Mouse
+- Portal Pursuer Mouse
+- Possessed Armaments Mouse
+- Praetorian Champion Mouse
+- Present Mouse
+- Prestigious Adventurer Mouse
+- Prestigious Prestidigitator Mouse
+- Primal Mouse
+- Prince Hapless
+- Princess and the Olive
+- Princess Fist
+- Professor Morty Artie
+- Prospector Mouse
+- Protector Mouse
+- Prototype Mouse
+- Puddlemancer Mouse
+- Puffer Mouse
+- Pugilist Mouse
+- Pump Raider Mouse
+- Pumpkin Head Mouse
+- Pumpkin Hoarder Mouse
+- Puppet Champion Mouse
+- Puppet Master Mouse
+- Puppetto Mouse
+- Pygmy Wrangler Mouse
+- Pyrehyde Mouse
+- Pyrite Mouse
+- Quarrelsome Quartermaster Mouse
+- Queen Quesada Mouse
+- Queso Extractor Mouse
+- Quesodillo Mouse
+- Quillback Mouse
+- Radioactive Ooze Mouse
+- Rain Collector Mouse
+- Rain Summoner Mouse
+- Rain Wallower Mouse
+- Rainbow Racer Mouse
+- Rainmancer Mouse
+- Rainwater Purifier Mouse
+- Rambunctious Rain Rumbler Mouse
+- Rampaging Redwood Mouse
+- Rancid Bog Beast Mouse
+- Ratberry
+- Ravenous Zombie Mouse
+- Raw Diamond Mouse
+- Reality Restitch Mouse
+- Realm Ripper
+- Reanimated Carver Mouse
+- Reaper Mouse
+- Record Keeper Mouse
+- Record Keeper's Assistant Mouse
+- Red Coat Bear Mouse
+- Red Envelope Mouse
+- Red Valet
+- Red-Eyed Watcher Owl Mouse
+- Regal Spearman Mouse
+- Reinbo
+- Relic Hunter Mouse
+- Renegade Mouse
+- Retired Minotaur Mouse
+- Reveling Lycanthrope Mouse
+- Revenant Mouse
+- Ribbon Mouse
+- Richard the Rich
+- Ridiculous Sweater Mouse
+- Rift Bio Engineer
+- Rift Guardian Mouse
+- Rift Tiger
+- Rifterranian Mouse
+- Riftweaver Mouse
+- Rimeus Polarblast Mouse
+- Rinsebreeze
+- Riptide Mouse
+- Robat Mouse
+- Robbin' Cloak
+- Rock Muncher Mouse
+- Rocketeer Mouse
+- Rockstar Mouse
+- Rogue Mouse
+- Romance Weaver
+- Romeno Mouse
+- Romeo Mouse
+- Root Rummager Mouse
+- Rouge O'Hair
+- RR-8 Mouse
+- Rubble Rouser Mouse
+- Rubble Rummager Mouse
+- Ruffian Mouse
+
+---
+
 # 🐭 Nachore Golem Mouse
 
 > **Entity**: Mouse_lore
@@ -43618,6 +43293,233 @@ All other types are ineffective.
 
 - 25 June 2013: Ruffian Mouse was released as part of the Claw Shot City.
 
+
+---
+
+
+
+---
+
+
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 5: S)
+
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad S)
+
+**Total Entitas**: 211 entitas tikus  
+
+## 📑 Daftar Isi / Index:
+
+- S.N.O.W. Golem Mouse
+- Saboteur Mouse
+- Sacred Shrine Mouse
+- Saloon Gal Mouse
+- Salt Water Snapper Mouse
+- Saltwater Axolotl Mouse
+- Samurai Mouse
+- Sand Cavalry Mouse
+- Sand Colossus Mouse
+- Sand Dollar Diver Mouse
+- Sand Dollar Queen Mouse
+- Sand Pilgrim
+- Sand Sifter Mouse
+- Sandmouse
+- Sandwing Cavalry Mouse
+- Sanguinarian Mouse
+- Sap Stealer Mouse
+- Sarcophamouse
+- Sardonic Sapling Mouse
+- Sassy Salsa Dancer Mouse
+- Scarab Mouse
+- Scarecrow Mouse
+- Scarlet Revenger Mouse
+- Scavenger Mouse
+- Scheming Squire Mouse
+- School of Mish
+- Scorned Pirate Mouse
+- Scornful Scallop Mouse
+- Scout Mouse
+- Scrap Metal Monster Mouse
+- Scribe Mouse
+- Scrooge Mouse
+- Scruffy Mouse
+- Seadragon Mouse
+- Seasoned Islandographer Mouse
+- Seer Mouse
+- Sentient Slime Mouse
+- Sentinel Mouse
+- Serpent Monster Mouse
+- Serpentine Mouse
+- Shackled Servant Mouse
+- Shade of the Eclipse Mouse
+- Shadow Master Sorcerer
+- Shadow Sage Mouse
+- Shadow Stalker Mouse
+- Shaman Mouse
+- Shaolin Kung Fu Mouse
+- Shard Centurion Mouse
+- Sharpshooter Mouse
+- Shattered Carmine
+- Shattered Obsidian Mouse
+- Shelder Mouse
+- Shifty Shrimp Mouse
+- Shimmerdread the Sovereign of Spice
+- Shinobi Mouse
+- Shipwrecked Mouse
+- Shopkeeper Mouse
+- Shortcut Mouse
+- Shorts-All-Year Mouse
+- Shroom Mouse
+- Silth Mouse
+- Silvertail Mouse
+- Sinister Egg Painter
+- Sinister Squid Mouse
+- Sir Fleekio Mouse
+- Siren Mouse
+- Sizzle Pup Mouse
+- Skeletal Champion Mouse
+- Skeleton Mouse
+- Skillful Mr. Cutley
+- Sky Dancer Mouse
+- Sky Glass Glazier
+- Sky Glass Sorcerer Mouse
+- Sky Glider Mouse
+- Sky Greaser Mouse
+- Sky Highborne Mouse
+- Sky Squire Mouse
+- Sky Surfer
+- Sky Swordsman Mouse
+- Skydiver Mouse
+- Slay Ride Mouse
+- Slayer Mouse
+- Sleep Starved Scholar Mouse
+- Sleepwalker Mouse
+- Sleepy Merchant Mouse
+- Slimefist Mouse
+- Slipstream the Virtuoso of Vapours
+- Slope Swimmer Mouse
+- Sludge Mouse
+- Sludge Scientist Mouse
+- Sludge Soaker Mouse
+- Sludge Swimmer Mouse
+- Sly Skulking Scrapper Mouse
+- Smoldersnap Mouse
+- Smug Smuggler Mouse
+- Snake Charmer Mouse
+- Snooty Mouse
+- Snow Boulder Mouse
+- Snow Bowler Mouse
+- Snow Fort Mouse
+- Snow Golem Architect Mouse
+- Snow Golem Jockey Mouse
+- Snow Scavenger
+- Snow Slinger Mouse
+- Snow Sniper Mouse
+- Snow Soldier Mouse
+- Snow Sorceress
+- Snowball Hoarder Mouse
+- Snowblind Mouse
+- Snowblower Mouse
+- Snowflake Mouse
+- Snowglobe Mouse
+- Sock Puppet Ghost Mouse
+- Soldier of the Shade Mouse
+- Solemn Soldier Mouse
+- Soothsayer Mouse
+- Sorcerer Mouse
+- Soul Binder Mouse
+- Sour Sprout Mouse
+- Space Party-Time Plumber Mouse
+- Spear Fisher Mouse
+- Spectral Butler Mouse
+- Spectral Swashbuckler Mouse
+- Spectre Mouse
+- Speedy Mouse
+- Spellbinder Mouse
+- Spheric Diviner
+- Spice Farmer Mouse
+- Spice Finder Mouse
+- Spice Merchant Mouse
+- Spice Raider Mouse
+- Spice Reaper Mouse
+- Spice Seer Mouse
+- Spice Sovereign Mouse
+- Spider Mouse
+- Spiked Burrower Mouse
+- Spiky Devil Mouse
+- Spirit Fox Mouse
+- Spirit Light Mouse
+- Spirit of Balance
+- Spiritual Steel Mouse
+- Splintered Stone Sentry Mouse
+- Spore Mouse
+- Spore Muncher Mouse
+- Spore Salesman Mouse
+- Sporeticus Mouse
+- Sporty Ski Instructor Mouse
+- Spotted Mouse
+- Spring Familiar Mouse
+- Spring Sprig Mouse
+- Sprinkly Sweet Cupcake Cook Mouse
+- Spry Sky Explorer Mouse
+- Spry Sky Seer Mouse
+- Spud Mouse
+- Squeaken Mouse
+- Squeaker Bot Mouse
+- Squeaker Claws
+- Squire Sizzleton
+- Stack of Thieves
+- Stagecoach Driver Mouse
+- Stalagmite Mouse
+- Stealth Mouse
+- Steam Grip Mouse
+- Steam Sailor Mouse
+- Steel Horse Rider Mouse
+- Steel Mouse
+- Stickybomber Mouse
+- Stinger Mouse
+- Stingray Mouse
+- Stocking Mouse
+- Stone Cutter Mouse
+- Stone Maiden Mouse
+- Stonework Warrior Mouse
+- Stormsurge the Vile Tempest
+- Stoutgear Mouse
+- Stowaway Mouse
+- Stratocaster Mouse
+- Strawberry Hotcakes Mouse
+- Stubby Scrap Scavenger Mouse
+- Stuck Snowball Mouse
+- Student of the Cheese Belt Mouse
+- Student of the Cheese Claw Mouse
+- Student of the Cheese Fang Mouse
+- Student of the Chi Belt Mouse
+- Student of the Chi Claw Mouse
+- Student of the Chi Fang Mouse
+- Stuffy Banker Mouse
+- Suave Pirate Mouse
+- Subterranean Mouse
+- Sugar Rush Mouse
+- Sulfurious the Raging Inferno
+- Sultry Saxophonist Mouse
+- Summer Mage Mouse
+- Summoning Scholar Mouse
+- Sunken Banshee Mouse
+- Sunken Citizen Mouse
+- Super FighterBot MegaSupreme
+- Super Mega Mecha Ultra RoboGold Mouse
+- Supernatural Mouse
+- Supply Hoarder Mouse
+- Supreme Sensei
+- Supremia Magnificus
+- Surgeon Bot Mouse
+- Suspense Weaver
+- Swabbie Mouse
+- Swamp Runner Mouse
+- Swamp Thang Mouse
+- Swarm of Pygmy Mice
+- Swashblade Mouse
+- Swift Stone Snatcher Mouse
+- Sylvan Mouse
 
 ---
 
@@ -52300,6 +52202,184 @@ The Sylvan Mouse is not known to drop any loot.
 
 ---
 
+
+
+---
+
+
+# 🐭 Bestiari & Ensiklopedia Lore Tikus (Bagian 6: T - Z)
+
+Kompilasi lengkap deskripsi cerita, kepribadian, faksi, habitat, kelemahan elemen, dan kebiasaan umpan seluruh spesies tikus Kerajaan Gnawnia. (Abjad T - Z)
+
+**Total Entitas**: 162 entitas tikus  
+
+## 📑 Daftar Isi / Index:
+
+- Tackle Tracker Mouse
+- Tadpole Mouse
+- Taleweaver Mouse
+- Tanglefoot Mouse
+- Tech Golem Mouse
+- Tech Ravenous Zombie
+- Technic Bishop Mouse
+- Technic King Mouse
+- Technic Knight Mouse
+- Technic Pawn Mouse
+- Technic Queen Mouse
+- Technic Rook Mouse
+- Teenage Vampire Mouse
+- Telekinetic Mutant Mouse
+- Teleporting Truant Mouse
+- Tentacle Mouse
+- Terra Mouse
+- Terrible Twos Mouse
+- Terrified Adventurer Mouse
+- Terror Knight Mouse
+- The Menace Mouse
+- The Total Eclipse
+- Theurgy Warden Mouse
+- Thirsty Mouse
+- Thistle Mouse
+- Thorn Mouse
+- Three Mouseketeers
+- Three'amat the Mother of Dragons
+- Thunder Strike
+- Thundering Watcher Mouse
+- ⚡Thunderlord⚡
+- Tidal Fisher Mouse
+- Tiger Mouse
+- Time Punk Mouse
+- Time Tailor Mouse
+- Time Thief Mouse
+- Timeless Lich Mouse
+- Timelost Thaumaturge Mouse
+- Timeslither Pythoness Mouse
+- Timid Explorer Mouse
+- Tiny Dragonfly Mouse
+- Tiny Mouse
+- Tiny Saboteur Mouse
+- Tiny Toppler Mouse
+- Titanic Brain-Taker Mouse
+- Toboggan Technician Mouse
+- Tomb Exhumer Mouse
+- Tome Sprite Mouse
+- Tonic Salesman Mouse
+- Torchbearer Tinderhelm
+- Totally Not Tax Fraud Mouse
+- Toxic Avenger Mouse
+- Toxic Warrior Mouse
+- Toxikinetic Mouse
+- Toy Mouse
+- Toy Sylvan Mouse
+- Toy Tinkerer Mouse
+- Tragedy Weaver
+- Trailblazer Mouse
+- Train Conductor Mouse
+- Train Engineer Mouse
+- Trampoline Mouse
+- Tranquilia Protecticus
+- Travelling Barber Mouse
+- Treacherous Dock Lurker Mouse
+- Treacherous Tubaist Mouse
+- Treant Mouse
+- Treant Queen Mouse
+- Treasure Brawler Mouse
+- Treasure Hoarder Mouse
+- Treasure Keeper Mouse
+- Treasurer Mouse
+- Treat Mouse
+- Tree Troll Mouse
+- Tri-dra Mouse
+- Trick Mouse
+- Tricky Witch Mouse
+- Triple Lutz Mouse
+- Tritus Mouse
+- Troll Mouse
+- Tumblestaff
+- Tumbleweed Mouse
+- Tundra Huntress
+- Turret Guard Mouse
+- Twisted Carmine
+- Twisted Fiend Mouse
+- Twisted Hotcakes Mouse
+- Twisted Lilly Mouse
+- Twisted Treant Mouse
+- Twisted Twig Mouse
+- Tyrannical Thaumaturge Mouse
+- Ultimate Mythweaver
+- Uncoordinated Cauldron Carrier Mouse
+- Undertaker Mouse
+- Unknown Mouse
+- Unwavering Adventurer Mouse
+- Upper Class Lady Mouse
+- Urchin King Mouse
+- Vampire Mouse
+- Vanguard Mouse
+- Vanquisher Mouse
+- Vaporior Mouse
+- Venomona Festerbloom
+- Vicious Vampire Squid Mouse
+- Vigilant Ward Mouse
+- Vincent the Magnificent
+- Vindictive Viscount Mouse
+- Vinetail Mouse
+- Vinneus Stalkhome
+- Violent Violinist Mouse
+- Violet Stormchild
+- Wailing Willow Mouse
+- Walker Mouse
+- Wandering Monk Mouse
+- Warden of Fog
+- Warden of Frost
+- Warden of Rain
+- Warden of Wind
+- Warehouse Manager Mouse
+- Warming Wyvern Mouse
+- Warmonger Mouse
+- Water Nymph Mouse
+- Water Sprite Mouse
+- Water Wielder Mouse
+- Wave Racer Mouse
+- Wealth Mouse
+- Wealthy Werewarrior Mouse
+- Werehauler Mouse
+- Wereminer Mouse
+- Whelpling Mouse
+- Whimsical Waltzer Mouse
+- Whirleygig Mouse
+- White Mage Mouse
+- White Mouse
+- Wicked Witch of Whisker Woods Mouse
+- Wiggler Mouse
+- Wight Mouse
+- Wild Chainsaw Mouse
+- Wily Weevil Mouse
+- Wind Warrior Mouse
+- Wind Watcher Mouse
+- Windy Farmer Mouse
+- Winged Harpy Mouse
+- Winter Games Mouse
+- Winter Mage Mouse
+- Withered Remains Mouse
+- Wolfskie Mouse
+- Wordsmith Mouse
+- Worker Mouse
+- Worried Wayfinder Mouse
+- Wound Up White Mouse
+- Wrathful Warden Mouse
+- Wreath Thief Mouse
+- Yeti Mouse
+- Young Prodigy Racer Mouse
+- Zealous Academic Mouse
+- Zephrum Bobblebrox
+- Zephyr Mouse
+- Zombie Mouse
+- Zombot Unipire Mouse
+- Zombot Unipire the Third
+- Zurreal the Eternal
+
+---
+
 # 🐭 Tackle Tracker Mouse
 
 > **Entity**: Mouse_lore
@@ -53460,6 +53540,51 @@ The Thundering Watcher Mouse is only available when both wind and rain intensiti
 ## History and Trivia
 
 - 6 September 2017: The Thundering Watcher Mouse was introduced as part of the Moussu Picchu release.
+
+
+---
+
+# 🐭 ⚡Thunderlord⚡
+
+> **Entity**: Mouse_lore
+
+The ⚡Thunderlord⚡ is a breed of mouse found in Moussu Picchu.
+
+| ⚡Thunderlord⚡ |  |  |  |
+| --- | --- | --- | --- |
+| Mouse Group: Moussu Picchu Inhabitants (Storm Dragon) |  |  |  |
+| Mouse Statistics |  |  |  |
+| Points: | 90,000 | Gold: | 15,000 |
+| Location & Attraction Info |  |  |  |
+| Required Power Types: | Draconic | Other Requirements: | Medium either Wind or Rain intensity, whichever is lower (36%-79%) |
+| Cheese: | Dragonvine Cheese | Charm: | None |
+| Locations: | Moussu Picchu | Loot: | Dragon ScalesMinerals |
+| Links |  |  |  |
+| Larry's Loot Lexicon: | MouseHunt Info Page | Image: | Image Link |
+| Able to tap into the raw natural energies present during storms, these powerful dragons descend onto the plateau from the skies above to restore order to Moussu Picchu and eliminate those that are upsetting the balance of power.<br>"I am the Thunderlord! Lord of THUNDER... and THUNDER OF LORDS!!!" |  |  |  |
+|  | Mouse ID#: 903 |  |  |
+
+## Preferred Cheese
+
+The ⚡Thunderlord⚡ has been found to be especially attracted to Dragonvine Cheese cheese, to the point that any other kind of cheese will simply not suffice.
+
+## Power Type Weaknesses
+
+| VeryEffective | Effective | Less Effective |
+| --- | --- | --- |
+| Draconic | None | None |
+
+## Hunting Strategy
+
+Only Draconic type traps are effective against the ⚡Thunderlord⚡, all other power types are ineffective.
+
+Dragonbane Charms, Super Dragonbane Charms and Extreme Dragonbane Charms provide a power bonus against the ⚡Thunderlord⚡.
+
+The ⚡Thunderlord⚡ is only available when both wind and rain intensities are at least between 35%-79% in Moussu Picchu.
+
+## History and Trivia
+
+- 6 September 2017: The ⚡Thunderlord⚡ was introduced as part of the Moussu Picchu release.
 
 
 ---
@@ -59000,51 +59125,6 @@ Zurreal's Folly is the only effective weapon against Zurreal the Eternal.
 - 23 August 2011: Zurreal the Eternal was introduced on 23 August 2011 and was first caught by hunters two days later.
 - It was the 3rd mouse to be introduced that required a specific charm to be armed in order to attract it, after Blacksmith and Mage Weaver in Muridae Market.
 - 29 August 2012: Zurreal the Eternal began dropping Ancient Relic as loot.
-
-
----
-
-# 🐭 ⚡Thunderlord⚡
-
-> **Entity**: Mouse_lore
-
-The ⚡Thunderlord⚡ is a breed of mouse found in Moussu Picchu.
-
-| ⚡Thunderlord⚡ |  |  |  |
-| --- | --- | --- | --- |
-| Mouse Group: Moussu Picchu Inhabitants (Storm Dragon) |  |  |  |
-| Mouse Statistics |  |  |  |
-| Points: | 90,000 | Gold: | 15,000 |
-| Location & Attraction Info |  |  |  |
-| Required Power Types: | Draconic | Other Requirements: | Medium either Wind or Rain intensity, whichever is lower (36%-79%) |
-| Cheese: | Dragonvine Cheese | Charm: | None |
-| Locations: | Moussu Picchu | Loot: | Dragon ScalesMinerals |
-| Links |  |  |  |
-| Larry's Loot Lexicon: | MouseHunt Info Page | Image: | Image Link |
-| Able to tap into the raw natural energies present during storms, these powerful dragons descend onto the plateau from the skies above to restore order to Moussu Picchu and eliminate those that are upsetting the balance of power.<br>"I am the Thunderlord! Lord of THUNDER... and THUNDER OF LORDS!!!" |  |  |  |
-|  | Mouse ID#: 903 |  |  |
-
-## Preferred Cheese
-
-The ⚡Thunderlord⚡ has been found to be especially attracted to Dragonvine Cheese cheese, to the point that any other kind of cheese will simply not suffice.
-
-## Power Type Weaknesses
-
-| VeryEffective | Effective | Less Effective |
-| --- | --- | --- |
-| Draconic | None | None |
-
-## Hunting Strategy
-
-Only Draconic type traps are effective against the ⚡Thunderlord⚡, all other power types are ineffective.
-
-Dragonbane Charms, Super Dragonbane Charms and Extreme Dragonbane Charms provide a power bonus against the ⚡Thunderlord⚡.
-
-The ⚡Thunderlord⚡ is only available when both wind and rain intensities are at least between 35%-79% in Moussu Picchu.
-
-## History and Trivia
-
-- 6 September 2017: The ⚡Thunderlord⚡ was introduced as part of the Moussu Picchu release.
 
 
 ---

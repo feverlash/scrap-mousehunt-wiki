@@ -1,0 +1,75 @@
+---
+title: Student of the Cheese Fang Mouse
+component: B_mice_lore
+type: mouse_lore
+categories:
+- Mice
+- Followers_of_Furoma
+- Furoma_Mice
+- King's_Party_Zone_Mice
+wiki_url: https://mhwiki.hitgrab.com/wiki/index.php/Student_of_the_Cheese_Fang_Mouse
+---
+
+# Student of the Cheese Fang Mouse
+
+
+| Student of the Cheese Fang Mouse |  |  |  |
+| --- | --- | --- | --- |
+| Mouse Group: Followers of Furoma |  |  |  |
+| Mouse Statistics |  |  |  |
+| Points: | 6,250 | Gold: | 450 |
+| Location & Attraction Info |  |  |  |
+| Required Power Types: | Tactical | Other Requirements: | None |
+| Cheese: | Maki CheeseSUPER&#124;brie+ | Charm: | None |
+| Locations: | Dojo | Loot: | Plankrun's Dojo NotesSatchel of Gold (750 gold)Token of the Cheese Fang |
+| Links |  |  |  |
+| Larry's Loot Lexicon: | MouseHunt Info Page | Image: | Image Link |
+| Students of the Cheese Fang are very agile and quick-thinking fighters. Trained by their clever masters never to miss an opening in an opponent's defense, these patient, persistent adversaries almost always catch hunters off-guard. |  |  |  |
+|  | Mouse ID#: 198 |  |  |
+
+
+
+## Cheese and Charm Preference
+
+
+### Cheese
+
+Maki Cheese has an attraction rate for the Student of the Cheese Fang Mouse of about twice that of SUPER|brie+ and four times that of Standard Cheeses
+
+
+### Charm
+
+No Charms are required to attract the Student of the Cheese Fang Mouse.
+
+
+## Power Type Weaknesses
+
+
+| VeryEffective | Effective | Less Effective |
+| --- | --- | --- |
+| Tactical | Physical | None |
+
+
+
+## Locations
+
+Hunters can encounter the Student of the Cheese Fang Mouse only in the Dojo location.
+
+
+## Loot
+
+The Student of the Cheese Fang Mouse drops the following loot in the Dojo location:
+
+- Plankrun's Dojo Notes
+- Satchel of Gold (750 gold)
+- Token of the Cheese Fang
+
+
+## History and Trivia
+
+- 26 November 2008: The Student of the Cheese Fang Mouse is released.
+- 27 November 2008: The Student of the Cheese Fang Mouse begins dropping the Token of the Cheese Fang as loot.
+- 14 April 2011: The Student of the Cheese Fang Mouse began dropping a bonus Dojo Student Egg as loot during the Spring Egg Hunt 2011 event.
+- The description for the Student of the Cheese Fang Mouse has changed since its release. The original description read as follows:
+
+> Students of the Cheese Fang are very agile and quick-thinking fighters. Trained by their clever masters to never miss an opening in an opponent's defense, you will always seem to be caught off guard when facing off against these patient yet never slowing adversaries.

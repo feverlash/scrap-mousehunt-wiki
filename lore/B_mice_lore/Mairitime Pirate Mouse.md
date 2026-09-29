@@ -1,0 +1,68 @@
+---
+title: Mairitime Pirate Mouse
+component: B_mice_lore
+type: mouse_lore
+categories:
+- Mice
+- Floating_Islanders
+- Floating_Islanders_(Sky_Pirate)
+wiki_url: https://mhwiki.hitgrab.com/wiki/index.php/Mairitime_Pirate_Mouse
+---
+
+# Mairitime Pirate Mouse
+
+The Mairitime Pirate Mouse is a breed of mouse found on the Floating Islands, on any island with 2 Sky Pirate Den present and active.
+
+
+| Mairitime Pirate Mouse |  |  |  |
+| --- | --- | --- | --- |
+| Mouse Group: Floating Islanders (Sky Pirate) |  |  |  |
+| Mouse Statistics |  |  |  |
+| Points: | 200,000 | Gold: | 30,000 |
+| Location & Attraction Info |  |  |  |
+| Required Power Types: | All powertypes except Parental and Rift | Other Requirements: |  |
+| Cheese: | Sky Pirate Swiss Cheese | Charm: |  |
+| Locations: | Floating Islands | Loot: | Bottled WindCyclone StoneSky OreSky GlassSky Pirate SealFlawed Orb |
+| Links |  |  |  |
+| Larry's Loot Lexicon: | MouseHunt Info Page | Image: | Image Link |
+| A Mairitime pilot with an emphasis on the "air". Sky Pirates swoop down upon their seafaring cousins when they need elite pilots for their airships. Without the restrictions of water, these seasoned sailors can manoeuvre a dirigible through the clouds with unmatched elegance. Unfortunately, many of these old seadogs tend to suffer from severe airsickness during their first few voyages. |  |  |  |
+|  | Mouse ID#: 1040 |  |  |
+
+
+
+## Cheese Preference
+
+The Mairitime Pirate Mouse is only attracted to Sky Pirate Swiss Cheese.
+
+
+## Hunting Strategy
+
+All powertypes except Rift and Parental are effective against the Mairitime Pirate Mouse. The Mairitime Pirate Mouse can only be encountered on an island with 2 Sky Pirate Dens present and active.
+
+
+## Loot
+
+
+### Floating Islands's Sky Pirate Loot
+
+Mairitime Pirate Mouse has a chance to drop Storm Cell if Rocket Boosters have been attached on the Hunter's Dirigible and the following loot depending on the buffs present:
+
+
+| Item | Condition |
+| --- | --- |
+| Sky Glass | Always drops Boosted by Sky Glass Formations and Loot Caches |
+| Sky Ore | Always drops Boosted by Sky Ore Deposit and Loot Caches |
+| Sky Pirate Seal | Always Drops The amount a mouse drops depends on the mouse caught. |
+| Cloud Curd | Drops when a Cloud Curd Bonus is present Can be boosted by Loot Caches |
+
+
+Additionally, the Mairitime Pirate Mouse can drop the following loots as well:
+
+- Bottled Wind
+- Cyclone Stone
+- Flawed Orb
+
+
+## History and Trivia
+
+- 08 September 2020: The Mairitime Pirate Mouse was introduced with the release of the Floating Islands.

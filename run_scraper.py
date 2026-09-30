@@ -18,6 +18,8 @@ from scraper.scrape_locations import scrape_all_locations
 from scraper.scrape_mechanics import scrape_core_mechanics
 from scraper.scrape_items import scrape_all_items
 from scraper.scrape_mice import scrape_all_mice
+from scraper.scrape_adventures import scrape_all_adventures
+
 
 def print_banner():
     banner = r"""
@@ -54,14 +56,17 @@ Contoh Penggunaan:
 
   6. Scrape Mice saja:
      python run_scraper.py --mode mice
+
+  7. Scrape Adventures (Adventure Book & Quests) saja:
+     python run_scraper.py --mode adventures
 """
     )
 
     parser.add_argument(
         "--mode",
-        choices=["pilot", "full", "locations", "mechanics", "items", "mice"],
+        choices=["pilot", "full", "locations", "mechanics", "items", "mice", "adventures"],
         default="pilot",
-        help="Mode eksekusi: 'pilot', 'full', 'locations', 'mechanics', 'items', 'mice'."
+        help="Mode eksekusi: 'pilot', 'full', 'locations', 'mechanics', 'items', 'mice', 'adventures'."
     )
     parser.add_argument(
         "--limit",
@@ -102,38 +107,46 @@ Contoh Penggunaan:
     mech_summary = {"downloaded": 0, "skipped": 0, "failed": 0}
     item_summary = {"downloaded": 0, "skipped": 0, "failed": 0}
     mice_summary = {"downloaded": 0, "skipped": 0, "failed": 0}
+    adv_summary = {"downloaded": 0, "skipped": 0, "failed": 0}
 
     # MODE: PILOT (Uji Coba Sampel)
     if args.mode == "pilot":
         limit_loc = args.limit if args.limit is not None else PILOT_LOCATION_LIMIT
         limit_items = args.limit if args.limit is not None else PILOT_ITEM_LIMIT
         limit_mice = args.limit if args.limit is not None else PILOT_MICE_LIMIT
+        limit_adv = args.limit if args.limit is not None else 5
 
-        print(f"=== [PILOT 1/4: LOCATIONS] (Maksimal {limit_loc} lokasi) ===")
+        print(f"=== [PILOT 1/5: LOCATIONS] (Maksimal {limit_loc} lokasi) ===")
         loc_summary = scrape_all_locations(client, limit=limit_loc, force=args.force)
 
-        print(f"\n=== [PILOT 2/4: CORE MECHANICS & FUNCTIONAL SKINS] ===")
+        print(f"\n=== [PILOT 2/5: CORE MECHANICS & FUNCTIONAL SKINS] ===")
         mech_summary = scrape_core_mechanics(client, force=args.force)
 
-        print(f"\n=== [PILOT 3/4: ITEMS] (Maksimal {limit_items} per kategori) ===")
+        print(f"\n=== [PILOT 3/5: ITEMS] (Maksimal {limit_items} per kategori) ===")
         item_summary = scrape_all_items(client, limit_per_category=limit_items, specific_category=args.category, force=args.force)
 
-        print(f"\n=== [PILOT 4/4: MICE] (Maksimal {limit_mice} tikus) ===")
+        print(f"\n=== [PILOT 4/5: MICE] (Maksimal {limit_mice} tikus) ===")
         mice_summary = scrape_all_mice(client, limit=limit_mice, force=args.force)
+
+        print(f"\n=== [PILOT 5/5: ADVENTURES] (Maksimal {limit_adv} halaman) ===")
+        adv_summary = scrape_all_adventures(client, limit=limit_adv, force=args.force)
 
     # MODE: FULL (Seluruh Data)
     elif args.mode == "full":
-        print("=== [TAHAP 1/4: SEMUA LOCATIONS] ===")
+        print("=== [TAHAP 1/5: SEMUA LOCATIONS] ===")
         loc_summary = scrape_all_locations(client, limit=args.limit, force=args.force)
 
-        print("\n=== [TAHAP 2/4: CORE MECHANICS & FUNCTIONAL SKINS] ===")
+        print("\n=== [TAHAP 2/5: CORE MECHANICS & FUNCTIONAL SKINS] ===")
         mech_summary = scrape_core_mechanics(client, force=args.force)
 
-        print("\n=== [TAHAP 3/4: SEMUA ITEMS] ===")
+        print("\n=== [TAHAP 3/5: SEMUA ITEMS] ===")
         item_summary = scrape_all_items(client, limit_per_category=args.limit, specific_category=args.category, force=args.force)
 
-        print("\n=== [TAHAP 4/4: SEMUA MICE] ===")
+        print("\n=== [TAHAP 4/5: SEMUA MICE] ===")
         mice_summary = scrape_all_mice(client, limit=args.limit, force=args.force)
+
+        print("\n=== [TAHAP 5/5: SEMUA ADVENTURES] ===")
+        adv_summary = scrape_all_adventures(client, limit=args.limit, force=args.force)
 
     # MODE: LOCATIONS ONLY
     elif args.mode == "locations":
@@ -155,10 +168,24 @@ Contoh Penggunaan:
         print("=== [MODE KHUSUS: MICE ONLY] ===")
         mice_summary = scrape_all_mice(client, limit=args.limit, force=args.force)
 
+    # MODE: ADVENTURES ONLY
+    elif args.mode == "adventures":
+        print("=== [MODE KHUSUS: ADVENTURES ONLY] ===")
+        adv_summary = scrape_all_adventures(client, limit=args.limit, force=args.force)
+
     elapsed = time.time() - start_time
-    total_downloaded = loc_summary["downloaded"] + mech_summary["downloaded"] + item_summary["downloaded"] + mice_summary["downloaded"]
-    total_skipped = loc_summary["skipped"] + mech_summary["skipped"] + item_summary["skipped"] + mice_summary["skipped"]
-    total_failed = loc_summary["failed"] + mech_summary["failed"] + item_summary["failed"] + mice_summary["failed"]
+    total_downloaded = (
+        loc_summary["downloaded"] + mech_summary["downloaded"] +
+        item_summary["downloaded"] + mice_summary["downloaded"] + adv_summary["downloaded"]
+    )
+    total_skipped = (
+        loc_summary["skipped"] + mech_summary["skipped"] +
+        item_summary["skipped"] + mice_summary["skipped"] + adv_summary["skipped"]
+    )
+    total_failed = (
+        loc_summary["failed"] + mech_summary["failed"] +
+        item_summary["failed"] + mice_summary["failed"] + adv_summary["failed"]
+    )
 
     print("\n" + "=" * 65)
     print("                 RINGKASAN HASIL EKSEKUSI")

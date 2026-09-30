@@ -8,6 +8,8 @@ LOCATIONS_DIR = DATA_DIR / "locations"
 MICE_DIR = DATA_DIR / "mice"
 ITEMS_DIR = DATA_DIR / "items"
 MECHANICS_DIR = DATA_DIR / "mechanics"
+ADVENTURES_DIR = DATA_DIR / "adventures"
+
 
 # API Configuration
 API_URL = "https://mhwiki.hitgrab.com/wiki/api.php"
@@ -35,6 +37,11 @@ MICE_CATEGORY = "Mice"
 
 # Category for Locations
 LOCATIONS_CATEGORY = "Locations"
+
+# Adventures
+ADVENTURE_BOOK_PAGE = "Adventure Book"
+ADVENTURES_CATEGORY = "Adventures"
+
 
 # Core Gameplay & Mechanics Pages
 CORE_MECHANICS_PAGES = [

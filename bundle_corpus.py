@@ -251,6 +251,23 @@ def bundle_mice():
         desc_label="Bundling Mice"
     )
 
+def bundle_adventures():
+    """Bundle 7: Adventure Book & Quests."""
+    adv_dir = DATA_DIR / "adventures"
+    if not adv_dir.exists(): return None
+
+    files = sorted(list(adv_dir.glob("*.md")), key=lambda p: p.stem.lower())
+    if not files: return None
+
+    file_tuples = [(f, "📜 Adventure:", "Adventure") for f in files]
+    return bundle_files(
+        output_filename="07_mousehunt_adventures.md",
+        bundle_title="📜 MouseHunt Knowledge Base: Adventure Book & Quests",
+        bundle_desc="Panduan lengkap alur petualangan dan quest MouseHunt: Seluruh Adventure Book per tingkatan pangkat (Novice hingga Elder) dan event musiman, daftar langkah objektif, serta hadiah reward (Gold, Points, Wisdom, Items & Maps).",
+        file_tuples=file_tuples,
+        desc_label="Bundling Adventures"
+    )
+
 def main():
     print("=" * 65)
     print("      MOUSEHUNT RAG CORPUS BUNDLER (MODULAR BUNDLES)        ")
@@ -285,6 +302,11 @@ def main():
     # 6. Mice
     res_mice = bundle_mice()
     if res_mice: results.append(res_mice)
+
+    # 7. Adventures
+    res_adv = bundle_adventures()
+    if res_adv: results.append(res_adv)
+
 
     print("\n" + "=" * 65)
     print("                 RINGKASAN BUNDEL TERCIPTA")

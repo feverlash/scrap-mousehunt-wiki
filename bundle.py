@@ -355,7 +355,7 @@ Contoh Penggunaan:
     )
     parser.add_argument(
         "--component",
-        choices=["all", "A", "B", "C", "D", "E", "F"],
+        choices=["all", "A", "B", "C", "D", "E", "F", "G"],
         default="all",
         help="Komponen lore yang ingin dibundel (default: all)."
     )
@@ -442,8 +442,18 @@ Contoh Penggunaan:
             "Aturan semesta MouseHunt: gema Terompet Pemburu (Hunter's Horn), hierarki pangkat Novice-Elder, 10 elemen kekuatan perangkap, dan magis aroma keju.",
             "⚙️",
             "Mechanic"
+        ),
+        (
+            "G",
+            input_lore / "G_adventure_book",
+            "07_adventure_book_tales.md",
+            "📜 Kisah Petualangan, Ekspedisi & Quest (Adventure Book)",
+            "Kompilasi narasi alur petualangan pemburu dari Novice hingga Elder, tugas kerajaan, dialog sambutan Raja, dan kronik penaklukan wilayah.",
+            "📜",
+            "Adventure"
         )
     ]
+
 
     results = []
 

@@ -41,6 +41,7 @@ DIR_C = LORE_DIR / "C_equipment_lore"
 DIR_D = LORE_DIR / "D_world_regions"
 DIR_E = LORE_DIR / "E_key_characters"
 DIR_F = LORE_DIR / "F_world_mechanics"
+DIR_G = LORE_DIR / "G_adventure_book"
 
 PLANKRUN_PAGES = [
     "Torn Pages of Plankrun's Journal",
@@ -96,7 +97,7 @@ def print_banner():
     banner = r"""
 ===================================================================
    📜 MOUSEHUNT LORE SCRAPER & FANFICTION CORPUS GENERATOR 🏰
-   Target Folders : lore/A_plankrun_journal ... lore/F_world_mechanics
+   Target Folders : lore/A_plankrun_journal ... lore/G_adventure_book
    Purpose        : Basis Pengetahuan AI Naratif & Akurasi Lore
 ===================================================================
 """
@@ -424,6 +425,78 @@ def process_component_f(client: WikiClient, source: str, limit: Optional[int], f
 
     return summary
 
+def process_component_g(client: WikiClient, source: str, limit: Optional[int], force: bool) -> Dict[str, int]:
+    """Component G: Adventure Book, Quests & Story Arcs."""
+    DIR_G.mkdir(parents=True, exist_ok=True)
+    summary = {"downloaded": 0, "skipped": 0, "failed": 0}
+    print("\n[G] Memproses Komponen G: Cerita & Alur Petualangan (Adventure Book)...")
+
+    # Local mode check
+    local_files = []
+    adventures_data_dir = DATA_DIR / "adventures"
+    if source in ["hybrid", "local"] and adventures_data_dir.exists():
+        local_files = sorted(list(adventures_data_dir.glob("*.md")), key=lambda p: p.stem.lower())
+
+    if local_files:
+        if limit is not None:
+            local_files = local_files[:limit]
+        pbar = tqdm(local_files, desc="[G] Adventures (Local)", unit="adv")
+        for f in pbar:
+            out_path = DIR_G / f.name
+            if not force and out_path.exists() and out_path.stat().st_size > 50:
+                summary["skipped"] += 1
+                continue
+
+            try:
+                with open(f, "r", encoding="utf-8") as inf:
+                    c = inf.read()
+                c = replace_em_dashes(c)
+                with open(out_path, "w", encoding="utf-8") as out:
+                    out.write(c)
+                summary["downloaded"] += 1
+            except Exception as e:
+                print(f"[Error] Gagal menulis {out_path}: {e}")
+                summary["failed"] += 1
+        return summary
+
+    # Online fallback
+    if source in ["online", "hybrid"]:
+        targets = ["Adventure Book"]
+        try:
+            cat_members = client.get_category_members("Adventures", cmtype="page")
+            for m in cat_members:
+                t = m.get("title")
+                if t and t not in targets:
+                    targets.append(t)
+        except Exception:
+            pass
+
+        if limit is not None:
+            targets = targets[:limit]
+
+        pbar = tqdm(targets, desc="[G] Adventures (Online)", unit="adv")
+        for title in pbar:
+            fname = sanitize_filename(title)
+            out_path = DIR_G / fname
+
+            if not force and out_path.exists() and out_path.stat().st_size > 50:
+                summary["skipped"] += 1
+                continue
+
+            page_data = client.get_page_data(title)
+            if page_data:
+                md_content = parse_wiki_page_for_lore(page_data, entity_type="adventure_lore", component_code="G_adventure_book")
+                try:
+                    with open(out_path, "w", encoding="utf-8") as out:
+                        out.write(md_content)
+                    summary["downloaded"] += 1
+                except Exception:
+                    summary["failed"] += 1
+            else:
+                summary["failed"] += 1
+
+    return summary
+
 def main():
     print_banner()
 
@@ -432,8 +505,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Contoh Penggunaan:
-  1. Eksekusi Penuh (Semua Komponen A sampai F):
+  1. Eksekusi Penuh (Semua Komponen A sampai G):
      python run_scraper_lore.py --mode all
+
 
   2. Eksekusi Komponen Tertentu:
      python run_scraper_lore.py --mode A       # Jurnal Plankrun
@@ -442,6 +516,7 @@ Contoh Penggunaan:
      python run_scraper_lore.py --mode D       # Lokasi & Wilayah
      python run_scraper_lore.py --mode E       # Tokoh Kunci & Boss
      python run_scraper_lore.py --mode F       # Aturan Dunia & Mekanik
+     python run_scraper_lore.py --mode G       # Kisah Petualangan (Adventure Book)
 
   3. Uji Coba Cepat (Limit per kategori):
      python run_scraper_lore.py --mode all --limit 10
@@ -453,7 +528,7 @@ Contoh Penggunaan:
 
     parser.add_argument(
         "--mode",
-        choices=["all", "A", "B", "C", "D", "E", "F", "plankrun", "mice", "equipment", "regions", "characters", "mechanics"],
+        choices=["all", "A", "B", "C", "D", "E", "F", "G", "plankrun", "mice", "equipment", "regions", "characters", "mechanics", "adventures"],
         default="all",
         help="Komponen lore yang ingin diproses (default: all)."
     )
@@ -514,6 +589,10 @@ Contoh Penggunaan:
 
     if run_all or args.mode in ["F", "mechanics"]:
         summaries["F_world_mechanics"] = process_component_f(client, args.source, args.limit, args.force)
+
+    if run_all or args.mode in ["G", "adventures"]:
+        summaries["G_adventure_book"] = process_component_g(client, args.source, args.limit, args.force)
+
 
     elapsed = time.time() - start_time
     total_dl = sum(s["downloaded"] for s in summaries.values())

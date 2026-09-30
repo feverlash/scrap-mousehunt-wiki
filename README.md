@@ -68,10 +68,11 @@ python run_scraper.py --mode locations
 python run_scraper.py --mode mechanics
 python run_scraper.py --mode items
 python run_scraper.py --mode mice
+python run_scraper.py --mode adventures
 ```
 
 ### 4. Bundler Korpus Gameplay (`bundle_corpus.py`):
-Menggabungkan ribuan file di `data/` menjadi 6 bundel tematik siap pakai di direktori `bundles/`:
+Menggabungkan ribuan file di `data/` menjadi 7 bundel tematik siap pakai di direktori `bundles/`:
 ```powershell
 python bundle_corpus.py
 ```
@@ -82,6 +83,8 @@ Daftar file output:
 4. `04_mousehunt_consumables.md` (Katalog bahan habis pakai: Cheese, Charms, Potions, Special Items, Auras)
 5. `05_mousehunt_crafting.md` (Katalog perakitan: Blueprints, suku cadang, dan bahan crafting)
 6. `06_mousehunt_mice.md` (Ensiklopedia seluruh 1.316 jenis tikus)
+7. `07_mousehunt_adventures.md` (Panduan lengkap Adventure Book: Alur quest per rank, objektif, & hadiah)
+
 
 ---
 
@@ -89,13 +92,14 @@ Daftar file output:
 
 Scraper ini didesain khusus untuk mengekstraksi esensi naratif, cerita sejarah, kepribadian karakter, ekologi makhluk, dan kosmologi semesta MouseHunt.
 
-### 1. Cakupan 6 Komponen Lore:
+### 1. Cakupan 7 Komponen Lore:
 - **Komponen A (`lore/A_plankrun_journal/`)**: Kronik Sir Plankrun (pemburu pertama di Gnawnia), berisi pecahan jurnal ekspedisi (*Torn Pages*) dan catatan lapangan perburuan.
 - **Komponen B (`lore/B_mice_lore/`)**: Bestiari seluruh spesies tikus, memuat deskripsi kepribadian, latar belakang cerita, ekologi habitat, dan dinamika faksi.
 - **Komponen C (`lore/C_equipment_lore/`)**: Gudang persenjataan & rekayasa perangkap (teknologi uap Digby, kristal magis Arcane, modifikasi Hydro, dan arsitektur base pertahanan).
 - **Komponen D (`lore/D_world_regions/`)**: Travelogue geografi dan atmosfer naratif (suasana pedesaan Gnawnia, reruntuhan kuno Furoma, benteng Fort Rox, hingga keganjilan dimensi Rift).
 - **Komponen E (`lore/E_key_characters/`)**: Dramatis Personae (profil The King, Larry the Friendly Knight, pedagang Ronza si penjelajah udara, penyihir catur Zugzwang, bos legendaris seperti Warmonger dan Ful'Mina, serta faksi-faksi perang).
 - **Komponen F (`lore/F_world_mechanics/`)**: Hukum alam dan filosofi semesta (sakralitas tiupan Hunter's Horn, kode kehormatan pangkat Novice-Elder, tradisi resep keju mistis, dan 10 elemen daya perangkap).
+- **Komponen G (`lore/G_adventure_book/`)**: Kisah petualangan dan narasi quest (*Adventure Book*), berisi dialog pengangkatan quest, instruksi Raja Gnawnia, dan kronik ekspedisi pemburu.
 
 ### 2. Fitur Unggulan Scraper 2:
 - **Mode Sumber Hybrid (`--source hybrid`)**: Memeriksa file lokal di `data/` terlebih dahulu untuk mengekstraksi teks cerita. Jika file belum ada atau belum lengkap, scraper akan mengunduh langsung dari MediaWiki API secara otomatis.
@@ -104,7 +108,7 @@ Scraper ini didesain khusus untuk mengekstraksi esensi naratif, cerita sejarah, 
 
 ### 3. Cara Menjalankan Scraper 2:
 ```powershell
-# Eksekusi seluruh komponen A s.d. F (sumber hybrid, menimpa file lama jika diinginkan)
+# Eksekusi seluruh komponen A s.d. G (sumber hybrid, menimpa file lama jika diinginkan)
 python run_scraper_lore.py --mode all --source hybrid --force
 
 # Eksekusi komponen tertentu
@@ -114,6 +118,8 @@ python run_scraper_lore.py --mode C          # atau --mode equipment
 python run_scraper_lore.py --mode D          # atau --mode regions
 python run_scraper_lore.py --mode E          # atau --mode characters
 python run_scraper_lore.py --mode F          # atau --mode mechanics
+python run_scraper_lore.py --mode G          # atau --mode adventures
+
 
 # Eksekusi dengan batas sampel (misal 10 file per kategori untuk pengujian)
 python run_scraper_lore.py --mode all --limit 10
@@ -145,7 +151,8 @@ Struktur hasil di `bundles_lore/`:
 4. `04_world_regions_travelogue.md` (Catatan perjalanan & geografi wilayah)
 5. `05_dramatis_personae_factions.md` (Profil tokoh kunci, entitas legendaris, & faksi)
 6. `06_world_laws_and_mechanics.md` (Hukum dunia, horn, pangkat, & kosmologi perburuan)
-7. *(Opsional)* `00_mousehunt_lore_bible.md` (Kompilasi master seluruh cerita dalam satu berkas)
+7. `07_adventure_book_tales.md` (Kisah petualangan, ekspedisi kerajaan, & narasi quest per rank)
+8. *(Opsional)* `00_mousehunt_lore_bible.md` (Kompilasi master seluruh cerita dalam satu berkas)
 
 ---
 
@@ -156,6 +163,7 @@ d:\Data Analyst\Latihan Scraping\Mousehunt wiki\
 ├── data/                       # [Scraper 1] Data gameplay & taktik per entitas
 │   ├── locations/              # Data lokasi & HUD perburuan
 │   ├── mechanics/              # Mekanik inti, progresi rank, & skin fungsional
+│   ├── adventures/             # Data Adventure Book & quest alur per rank
 │   ├── items/                  # Senjata, base, keju, charm, potion, & crafting
 │   └── mice/                   # 1.316 file tikus (kelemahan, umpan, loot)
 │
@@ -165,7 +173,8 @@ d:\Data Analyst\Latihan Scraping\Mousehunt wiki\
 │   ├── C_equipment_lore/       # Lore teknologi senjata & base pertahanan
 │   ├── D_world_regions/        # Narasi atmosfer & geografi wilayah
 │   ├── E_key_characters/      # Profil tokoh, raja, Ronza, faksi & bos mitos
-│   └── F_world_mechanics/      # Aturan semesta, tradisi horn, elemen & keju
+│   ├── F_world_mechanics/      # Aturan semesta, tradisi horn, elemen & keju
+│   └── G_adventure_book/       # Narasi alur petualangan, dialog quest & ekspedisi
 │
 ├── bundles/                    # Hasil kompilasi bundel gameplay (bundle_corpus.py)
 │   ├── 01_mousehunt_locations.md
@@ -173,7 +182,8 @@ d:\Data Analyst\Latihan Scraping\Mousehunt wiki\
 │   ├── 03_mousehunt_equipment.md
 │   ├── 04_mousehunt_consumables.md
 │   ├── 05_mousehunt_crafting.md
-│   └── 06_mousehunt_mice.md
+│   ├── 06_mousehunt_mice.md
+│   └── 07_mousehunt_adventures.md
 │
 ├── bundles_lore/               # Hasil kompilasi bundel naratif (bundle.py)
 │   ├── 00_mousehunt_lore_bible.md          # (Opsional via --all-in-one)
@@ -187,7 +197,9 @@ d:\Data Analyst\Latihan Scraping\Mousehunt wiki\
 │   ├── 03_equipment_armory_lore.md
 │   ├── 04_world_regions_travelogue.md
 │   ├── 05_dramatis_personae_factions.md
-│   └── 06_world_laws_and_mechanics.md
+│   ├── 06_world_laws_and_mechanics.md
+│   └── 07_adventure_book_tales.md
+
 │
 ├── scraper/                    # Modul inti pemrosesan data & API
 │   ├── api_client.py           # Klien MediaWiki API dengan rate limit terkontrol
@@ -197,8 +209,10 @@ d:\Data Analyst\Latihan Scraping\Mousehunt wiki\
 │   ├── aggregates.py           # Agregator tabel master
 │   ├── scrape_locations.py     # Parser lokasi gameplay
 │   ├── scrape_mechanics.py     # Parser mekanik gameplay
+│   ├── scrape_adventures.py    # Parser Adventure Book & quests gameplay
 │   ├── scrape_items.py         # Parser items gameplay
 │   └── scrape_mice.py          # Parser tikus gameplay
+
 │
 ├── run_scraper.py              # CLI Runner: Scraper 1 (Gameplay & Taktik)
 ├── run_scraper_lore.py         # CLI Runner: Scraper 2 (Lore & Fanfiksi)
